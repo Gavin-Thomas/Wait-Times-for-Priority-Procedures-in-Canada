@@ -39,7 +39,7 @@ Everything I Cleaned:
 - Changed Column Title "Data year" to "Year
 - Changed Column Title "Indicator Result" to "Result"
 
-Cleaned CSV file [HERE](/Wait-Times-for-Priority-Procedures-in-Canada/cleaned-patient_wait_times.csv)
+Cleaned CSV file [HERE](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/cleaned-patient_wait_times.csv)
 
 I also (manually - because it was easy) deleted the columns that I didn't want. These were "Region" & "Reporting Level"
 
@@ -56,7 +56,8 @@ df.head(5)
 ```
 The file did not look pretty at this point, so I dropped all N/A values.
 ```
-
+df = df.dropna()
+```
 
 
 ---
