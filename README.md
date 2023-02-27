@@ -129,6 +129,7 @@ violin_plot.set_xlabel('Indicator', fontsize=40, fontfamily = 'Times New Roman')
 violin_plot.set_ylabel('Result (Days)', fontsize=40, fontfamily = 'Times New Roman')
 violin_plot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
 ```
+![Violin_Province](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Violin_Province.png?raw=true)
 
 ---
 ## Random Forest Regressor
