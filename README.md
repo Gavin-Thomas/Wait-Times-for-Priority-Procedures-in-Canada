@@ -20,6 +20,18 @@ In this readme file, I will take you through my process of data cleaning, analys
 
 ---
 ## Data Cleaning
+
+Firstly, I converted the [CIHI dataset](https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-data-tables-en.xlsx) to a CSV file. I only added the last sheet of the Excel dataset to my CSV file.
+
+I used pandas and numpy for data cleaning.
+```
+import pandas as pd
+import numpy as np
+```
+
+
+
+
 ---
 ## Data Visualization 
 ---
