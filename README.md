@@ -13,7 +13,7 @@ _____
 Contained in this repository is my data analysis of the 2023 CIHI wait times data table for priority procedures. This CIHI dataset does not contain ALL types of priority procedures; rather, the data table contains a few different types of procedures that may give a general idea of waiting times depending on the procedure type, and the province of residence. 
 
 The reason I chose this dataset is two-fold:
-1. The current Canadian health-care system is known to have long wait times.
+1. The Canadian health-care system is known to have long wait times.
 2. The CIHI has released a clear, well-formatted dataset.
 
 When I did my data analysis I did not include all parameters. The reason I did this was to simplify my life, and to reduce any confounders to the random forest regressor I built, as well as to generate clear graphs.
