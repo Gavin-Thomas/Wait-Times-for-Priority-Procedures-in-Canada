@@ -79,9 +79,15 @@ new_df6.to_csv("unclean_data2.csv")
 Next up, I reloaded the new CSV file and in any row that contained the word "Hours", I modified the neighboring value under the column "Indicator Result" to show hours instead of days by dividing by 24. I used the ".loc" function to identify the position of hours, and then used "/=" to divide the number of hours by 24 to get days.
 
 ```
-df.loc[data.index.str.contains('Hours'), 'Indicator Result'] /= 24
-```
+# Changing hours to Days using loc function and index function
 
+df.loc[data.index.str.contains('Hours'), 'Indicator Result'] /= 24
+
+# As an example, for all the provinces. (Other provinces not shown)
+# I changed the occurence of the word Alberta with AB using the loc function
+
+data.loc[:, 'provinces'] = data['provinces'].replace('Alberta', 'AB')
+```
 
 
 ---
