@@ -31,7 +31,7 @@ Everything I Cleaned:
 - Deleted rows containing "Canada"
 - Only rows I did not delete from the Metric column was the "50th percentile" (50th percentile wait time)
 - Changed all Provinces to their abbreviation (ex. AB instead of Alberta)
-- Deleted all rows with proportion as a "Unit of Measurement"
+- Deleted all rows containing "Proportion" under column  "Unit of Measurement"
 - Deleted all Data years past 2019 (to not include COVID lockdown)
 - Deleted all Data years with letters (ie. 2019FY)
 - Changed All "Indicator Results" Column "Hours" to "Days" by dividing by 24.
@@ -41,7 +41,7 @@ Everything I Cleaned:
 
 Cleaned CSV file [HERE](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/cleaned-patient_wait_times.csv)
 
-I also (manually - because it was easy) deleted the columns that I didn't want. These were "Region" & "Reporting Level"
+I manually deleted the columns that I didn't want. These were "Region" & "Reporting Level". Later on I deleted "Unit of Measurement"
 
 I used pandas and numpy for data cleaning.
 
@@ -58,6 +58,20 @@ The file did not look pretty at this point, so I dropped all N/A values.
 ```
 df = df.dropna()
 ```
+```
+# Dropping any rows listed Canada, Q, Proportion, Number of Cases, FY
+
+new_df2 = df[~df.apply(lambda row: row.astype(str).str.contains("Canada").any(),axis=1)]
+new_df3 = new_df2[~new_df2.apply(lambda row: row.astype(str).str.contains("Q").any(),axis=1)]
+new_df4 = new_df3[~new_df2.apply(lambda row: row.astype(str).str.contains("Proportion").any(),axis=1)]
+new_df5 = new_df4[~new_df2.apply(lambda row: row.astype(str).str.contains("Number of cases").any(),axis=1)]
+new_df6 = new_df5[~new_df2.apply(lambda row: row.astype(str).str.contains("FY").any(),axis=1)]
+
+# Then I saved to a new file
+
+new_df6.to_csv("Herewego2.csv")
+```
+
 
 
 ---
