@@ -1,0 +1,1964 @@
+Province,Indicator,Metric,Year,Result
+AB,CABG,50th percentile,2008,7
+AB,Hip Replacement,50th percentile,2008,103
+AB,Knee Replacement,50th percentile,2008,123
+AB,Cataract Surgery,50th percentile,2008,70
+AB,MRI Scan,50th percentile,2008,41
+AB,CT Scan,50th percentile,2008,10
+AB,CABG,50th percentile,2009,17
+AB,Hip Replacement,50th percentile,2009,93
+AB,Knee Replacement,50th percentile,2009,120
+AB,Radiation Therapy,50th percentile,2009,14
+AB,Hip Fracture Repair,50th percentile,2009,1.08
+AB,Cataract Surgery,50th percentile,2009,88
+AB,MRI Scan,50th percentile,2009,57
+AB,CT Scan,50th percentile,2009,11
+AB,CABG,50th percentile,2010,15
+AB,Hip Replacement,50th percentile,2010,104
+AB,Knee Replacement,50th percentile,2010,128
+AB,Radiation Therapy,50th percentile,2010,8
+AB,Hip Fracture Repair,50th percentile,2010,0.96
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2010,1.29
+AB,Cataract Surgery,50th percentile,2010,118
+AB,MRI Scan,50th percentile,2010,39
+AB,CT Scan,50th percentile,2010,8
+AB,CABG,50th percentile,2011,15
+AB,Hip Replacement,50th percentile,2011,101
+AB,Knee Replacement,50th percentile,2011,124
+AB,Radiation Therapy,50th percentile,2011,6
+AB,Hip Fracture Repair,50th percentile,2011,1
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2011,1.25
+AB,Cataract Surgery,50th percentile,2011,88
+AB,MRI Scan,50th percentile,2011,51
+AB,CT Scan,50th percentile,2011,13
+AB,Hip Replacement,50th percentile,2012,90
+AB,Knee Replacement,50th percentile,2012,104
+AB,Radiation Therapy,50th percentile,2012,7
+AB,Hip Fracture Repair,50th percentile,2012,1
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2012,1.25
+AB,Cataract Surgery,50th percentile,2012,78
+AB,CABG,50th percentile,2012,11
+AB,MRI Scan,50th percentile,2012,85
+AB,CT Scan,50th percentile,2012,14
+AB,Hip Replacement,50th percentile,2013,108
+AB,Knee Replacement,50th percentile,2013,127
+AB,Radiation Therapy,50th percentile,2013,7
+AB,Hip Fracture Repair,50th percentile,2013,0.92
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2013,1.17
+AB,Cataract Surgery,50th percentile,2013,79
+AB,CABG,50th percentile,2013,12
+AB,MRI Scan,50th percentile,2013,80
+AB,CT Scan,50th percentile,2013,13
+AB,Breast Cancer Surgery,50th percentile,2013,15
+AB,Bladder Cancer Surgery,50th percentile,2013,28
+AB,Colorectal Cancer Surgery,50th percentile,2013,20
+AB,Lung Cancer Surgery,50th percentile,2013,41
+AB,Prostate Cancer Surgery,50th percentile,2013,41
+AB,Hip Replacement,50th percentile,2014,90
+AB,Knee Replacement,50th percentile,2014,99
+AB,Radiation Therapy,50th percentile,2014,7
+AB,Hip Fracture Repair,50th percentile,2014,0.96
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2014,1.25
+AB,Cataract Surgery,50th percentile,2014,73
+AB,CABG,50th percentile,2014,6
+AB,MRI Scan,50th percentile,2014,60
+AB,CT Scan,50th percentile,2014,12
+AB,Breast Cancer Surgery,50th percentile,2014,20
+AB,Bladder Cancer Surgery,50th percentile,2014,29
+AB,Colorectal Cancer Surgery,50th percentile,2014,24
+AB,Lung Cancer Surgery,50th percentile,2014,35
+AB,Prostate Cancer Surgery,50th percentile,2014,39
+AB,Hip Replacement,50th percentile,2014,99
+AB,Hip Replacement,50th percentile,2014,87
+AB,Hip Replacement,50th percentile,2014,84
+AB,Hip Replacement,50th percentile,2014,95
+AB,Hip Replacement,50th percentile,2014,75
+AB,Knee Replacement,50th percentile,2014,127
+AB,Knee Replacement,50th percentile,2014,95
+AB,Knee Replacement,50th percentile,2014,71
+AB,Knee Replacement,50th percentile,2014,109
+AB,Knee Replacement,50th percentile,2014,68
+AB,Hip Replacement,50th percentile,2015,93
+AB,Knee Replacement,50th percentile,2015,106
+AB,Radiation Therapy,50th percentile,2015,7
+AB,Hip Fracture Repair,50th percentile,2015,0.92
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2015,1.12
+AB,Cataract Surgery,50th percentile,2015,87
+AB,CABG,50th percentile,2015,6
+AB,MRI Scan,50th percentile,2015,90
+AB,CT Scan,50th percentile,2015,17
+AB,Breast Cancer Surgery,50th percentile,2015,20
+AB,Bladder Cancer Surgery,50th percentile,2015,28
+AB,Colorectal Cancer Surgery,50th percentile,2015,27
+AB,Lung Cancer Surgery,50th percentile,2015,31
+AB,Prostate Cancer Surgery,50th percentile,2015,43
+AB,Hip Replacement,50th percentile,2015,85
+AB,Hip Replacement,50th percentile,2015,95
+AB,Hip Replacement,50th percentile,2015,74
+AB,Hip Replacement,50th percentile,2015,105
+AB,Hip Replacement,50th percentile,2015,79
+AB,Knee Replacement,50th percentile,2015,126
+AB,Knee Replacement,50th percentile,2015,105
+AB,Knee Replacement,50th percentile,2015,82
+AB,Knee Replacement,50th percentile,2015,110
+AB,Knee Replacement,50th percentile,2015,98
+AB,Hip Replacement,50th percentile,2016,91
+AB,Knee Replacement,50th percentile,2016,113
+AB,Radiation Therapy,50th percentile,2016,7
+AB,Hip Fracture Repair,50th percentile,2016,0.83
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2016,1.04
+AB,Cataract Surgery,50th percentile,2016,92
+AB,CABG,50th percentile,2016,6
+AB,MRI Scan,50th percentile,2016,85
+AB,CT Scan,50th percentile,2016,27
+AB,Breast Cancer Surgery,50th percentile,2016,20
+AB,Bladder Cancer Surgery,50th percentile,2016,30
+AB,Colorectal Cancer Surgery,50th percentile,2016,27
+AB,Lung Cancer Surgery,50th percentile,2016,33
+AB,Prostate Cancer Surgery,50th percentile,2016,48
+AB,Hip Replacement,50th percentile,2016,138
+AB,Hip Replacement,50th percentile,2016,91
+AB,Hip Replacement,50th percentile,2016,92
+AB,Hip Replacement,50th percentile,2016,84
+AB,Hip Replacement,50th percentile,2016,76
+AB,Knee Replacement,50th percentile,2016,168
+AB,Knee Replacement,50th percentile,2016,110
+AB,Knee Replacement,50th percentile,2016,141
+AB,Knee Replacement,50th percentile,2016,97
+AB,Knee Replacement,50th percentile,2016,105
+AB,Hip Replacement,50th percentile,2017,121
+AB,Knee Replacement,50th percentile,2017,143
+AB,Radiation Therapy,50th percentile,2017,6
+AB,Hip Fracture Repair,50th percentile,2017,0.79
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2017,1.04
+AB,Cataract Surgery,50th percentile,2017,99
+AB,CABG,50th percentile,2017,10
+AB,MRI Scan,50th percentile,2017,95
+AB,CT Scan,50th percentile,2017,30
+AB,Breast Cancer Surgery,50th percentile,2017,19
+AB,Bladder Cancer Surgery,50th percentile,2017,30
+AB,Colorectal Cancer Surgery,50th percentile,2017,28
+AB,Lung Cancer Surgery,50th percentile,2017,29
+AB,Prostate Cancer Surgery,50th percentile,2017,48
+AB,Hip Replacement,50th percentile,2017,180
+AB,Hip Replacement,50th percentile,2017,110
+AB,Hip Replacement,50th percentile,2017,79
+AB,Hip Replacement,50th percentile,2017,139
+AB,Hip Replacement,50th percentile,2017,104
+AB,Knee Replacement,50th percentile,2017,191
+AB,Knee Replacement,50th percentile,2017,124
+AB,Knee Replacement,50th percentile,2017,102
+AB,Knee Replacement,50th percentile,2017,158
+AB,Knee Replacement,50th percentile,2017,125
+AB,Hip Replacement,50th percentile,2018,129
+AB,Knee Replacement,50th percentile,2018,131
+AB,Radiation Therapy,50th percentile,2018,7
+AB,Hip Fracture Repair,50th percentile,2018,0.71
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2018,1
+AB,Cataract Surgery,50th percentile,2018,116
+AB,CABG,50th percentile,2018,8
+AB,MRI Scan,50th percentile,2018,77
+AB,CT Scan,50th percentile,2018,22
+AB,Breast Cancer Surgery,50th percentile,2018,20
+AB,Bladder Cancer Surgery,50th percentile,2018,32
+AB,Colorectal Cancer Surgery,50th percentile,2018,23
+AB,Lung Cancer Surgery,50th percentile,2018,34
+AB,Prostate Cancer Surgery,50th percentile,2018,43
+AB,Hip Replacement,50th percentile,2018,194
+AB,Hip Replacement,50th percentile,2018,117
+AB,Hip Replacement,50th percentile,2018,126
+AB,Hip Replacement,50th percentile,2018,133
+AB,Hip Replacement,50th percentile,2018,128
+AB,Knee Replacement,50th percentile,2018,190
+AB,Knee Replacement,50th percentile,2018,112
+AB,Knee Replacement,50th percentile,2018,157
+AB,Knee Replacement,50th percentile,2018,136
+AB,Knee Replacement,50th percentile,2018,143
+AB,Bladder Cancer Surgery,50th percentile,2019,29
+AB,Breast Cancer Surgery,50th percentile,2019,17
+AB,CABG,50th percentile,2019,7
+AB,Cataract Surgery,50th percentile,2019,131
+AB,Colorectal Cancer Surgery,50th percentile,2019,24
+AB,CT Scan,50th percentile,2019,24
+AB,Hip Fracture Repair,50th percentile,2019,0.75
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2019,1.04
+AB,Hip Replacement,50th percentile,2019,141
+AB,Knee Replacement,50th percentile,2019,148
+AB,Lung Cancer Surgery,50th percentile,2019,21
+AB,MRI Scan,50th percentile,2019,72
+AB,Prostate Cancer Surgery,50th percentile,2019,45
+AB,Radiation Therapy,50th percentile,2019,9
+AB,Hip Replacement,50th percentile,2019,174
+AB,Hip Replacement,50th percentile,2019,115
+AB,Hip Replacement,50th percentile,2019,106
+AB,Hip Replacement,50th percentile,2019,163
+AB,Hip Replacement,50th percentile,2019,141
+AB,Knee Replacement,50th percentile,2019,173
+AB,Knee Replacement,50th percentile,2019,120
+AB,Knee Replacement,50th percentile,2019,139
+AB,Knee Replacement,50th percentile,2019,173
+AB,Knee Replacement,50th percentile,2019,131
+AB,Bladder Cancer Surgery,50th percentile,2020,20
+AB,Breast Cancer Surgery,50th percentile,2020,15
+AB,Hip Replacement,50th percentile,2020,253
+AB,Hip Replacement,50th percentile,2020,183
+AB,Hip Replacement,50th percentile,2020,119
+AB,Hip Replacement,50th percentile,2020,194
+AB,Hip Replacement,50th percentile,2020,204
+AB,Knee Replacement,50th percentile,2020,265
+AB,Knee Replacement,50th percentile,2020,188
+AB,Knee Replacement,50th percentile,2020,183
+AB,Knee Replacement,50th percentile,2020,250
+AB,Knee Replacement,50th percentile,2020,286
+AB,CABG,50th percentile,2020,8
+AB,Cataract Surgery,50th percentile,2020,183
+AB,Colorectal Cancer Surgery,50th percentile,2020,19
+AB,CT Scan,50th percentile,2020,31
+AB,Hip Fracture Repair,50th percentile,2020,0.75
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2020,1
+AB,Hip Replacement,50th percentile,2020,187
+AB,Knee Replacement,50th percentile,2020,217
+AB,Lung Cancer Surgery,50th percentile,2020,22
+AB,MRI Scan,50th percentile,2020,85
+AB,Prostate Cancer Surgery,50th percentile,2020,49
+AB,Radiation Therapy,50th percentile,2020,9
+AB,Hip Replacement,50th percentile,2021,155
+AB,Knee Replacement,50th percentile,2021,186
+AB,Radiation Therapy,50th percentile,2021,9
+AB,Hip Fracture Repair,50th percentile,2021,0.83
+AB,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2021,1.08
+AB,Cataract Surgery,50th percentile,2021,73
+AB,CABG,50th percentile,2021,6
+AB,MRI Scan,50th percentile,2021,45
+AB,CT Scan,50th percentile,2021,13
+AB,Breast Cancer Surgery,50th percentile,2021,18
+AB,Bladder Cancer Surgery,50th percentile,2021,26
+AB,Colorectal Cancer Surgery,50th percentile,2021,22
+AB,Lung Cancer Surgery,50th percentile,2021,29
+AB,Prostate Cancer Surgery,50th percentile,2021,62
+AB,Hip Replacement,50th percentile,2021,114
+AB,Hip Replacement,50th percentile,2021,150
+AB,Hip Replacement,50th percentile,2021,105
+AB,Hip Replacement,50th percentile,2021,182
+AB,Hip Replacement,50th percentile,2021,118
+AB,Knee Replacement,50th percentile,2021,150
+AB,Knee Replacement,50th percentile,2021,155
+AB,Knee Replacement,50th percentile,2021,116
+AB,Knee Replacement,50th percentile,2021,245
+AB,Knee Replacement,50th percentile,2021,135
+BC,Hip Replacement,50th percentile,2008,71
+BC,Knee Replacement,50th percentile,2008,102
+BC,Radiation Therapy,50th percentile,2008,7
+BC,Cataract Surgery,50th percentile,2008,55
+BC,CABG,50th percentile,2008,43
+BC,Hip Replacement,50th percentile,2009,73
+BC,Knee Replacement,50th percentile,2009,85
+BC,Radiation Therapy,50th percentile,2009,8
+BC,Hip Fracture Repair,50th percentile,2009,0.96
+BC,Cataract Surgery,50th percentile,2009,49
+BC,CABG,50th percentile,2010,19
+BC,Hip Replacement,50th percentile,2010,79
+BC,Knee Replacement,50th percentile,2010,101
+BC,Radiation Therapy,50th percentile,2010,8
+BC,Hip Fracture Repair,50th percentile,2010,1.04
+BC,Cataract Surgery,50th percentile,2010,54
+BC,CABG,50th percentile,2011,3
+BC,Hip Replacement,50th percentile,2011,98
+BC,Knee Replacement,50th percentile,2011,122
+BC,Radiation Therapy,50th percentile,2011,8
+BC,Hip Fracture Repair,50th percentile,2011,1.08
+BC,Cataract Surgery,50th percentile,2011,52
+BC,Hip Replacement,50th percentile,2012,97
+BC,Knee Replacement,50th percentile,2012,124
+BC,Radiation Therapy,50th percentile,2012,8
+BC,Hip Fracture Repair,50th percentile,2012,1.04
+BC,Cataract Surgery,50th percentile,2012,39
+BC,CABG,50th percentile,2012,6
+BC,Hip Replacement,50th percentile,2013,91
+BC,Knee Replacement,50th percentile,2013,118
+BC,Radiation Therapy,50th percentile,2013,7
+BC,Hip Fracture Repair,50th percentile,2013,1.08
+BC,Cataract Surgery,50th percentile,2013,41
+BC,CABG,50th percentile,2013,8
+BC,Breast Cancer Surgery,50th percentile,2013,14
+BC,Bladder Cancer Surgery,50th percentile,2013,22
+BC,Colorectal Cancer Surgery,50th percentile,2013,16
+BC,Lung Cancer Surgery,50th percentile,2013,18
+BC,Prostate Cancer Surgery,50th percentile,2013,36
+BC,Hip Replacement,50th percentile,2014,126
+BC,Knee Replacement,50th percentile,2014,160
+BC,Radiation Therapy,50th percentile,2014,7
+BC,Hip Fracture Repair,50th percentile,2014,1.04
+BC,Cataract Surgery,50th percentile,2014,60
+BC,CABG,50th percentile,2014,6
+BC,Breast Cancer Surgery,50th percentile,2014,16
+BC,Bladder Cancer Surgery,50th percentile,2014,22
+BC,Colorectal Cancer Surgery,50th percentile,2014,20
+BC,Lung Cancer Surgery,50th percentile,2014,20
+BC,Prostate Cancer Surgery,50th percentile,2014,29
+BC,Hip Replacement,50th percentile,2014,140
+BC,Hip Replacement,50th percentile,2014,95
+BC,Hip Replacement,50th percentile,2014,95
+BC,Hip Replacement,50th percentile,2014,224
+BC,Hip Replacement,50th percentile,2014,111
+BC,Knee Replacement,50th percentile,2014,167
+BC,Knee Replacement,50th percentile,2014,154
+BC,Knee Replacement,50th percentile,2014,105
+BC,Knee Replacement,50th percentile,2014,278
+BC,Knee Replacement,50th percentile,2014,106
+BC,Hip Replacement,50th percentile,2015,140
+BC,Knee Replacement,50th percentile,2015,197
+BC,Radiation Therapy,50th percentile,2015,8
+BC,Hip Fracture Repair,50th percentile,2015,1
+BC,Cataract Surgery,50th percentile,2015,72
+BC,CABG,50th percentile,2015,5
+BC,Breast Cancer Surgery,50th percentile,2015,16
+BC,Bladder Cancer Surgery,50th percentile,2015,22
+BC,Colorectal Cancer Surgery,50th percentile,2015,21
+BC,Lung Cancer Surgery,50th percentile,2015,18
+BC,Prostate Cancer Surgery,50th percentile,2015,33
+BC,Hip Replacement,50th percentile,2015,185
+BC,Hip Replacement,50th percentile,2015,129
+BC,Hip Replacement,50th percentile,2015,92
+BC,Hip Replacement,50th percentile,2015,229
+BC,Hip Replacement,50th percentile,2015,117
+BC,Knee Replacement,50th percentile,2015,241
+BC,Knee Replacement,50th percentile,2015,197
+BC,Knee Replacement,50th percentile,2015,80
+BC,Knee Replacement,50th percentile,2015,296
+BC,Knee Replacement,50th percentile,2015,134
+BC,Hip Replacement,50th percentile,2016,141
+BC,Knee Replacement,50th percentile,2016,192
+BC,Radiation Therapy,50th percentile,2016,8
+BC,Hip Fracture Repair,50th percentile,2016,1.08
+BC,Cataract Surgery,50th percentile,2016,74
+BC,CABG,50th percentile,2016,8
+BC,Breast Cancer Surgery,50th percentile,2016,17
+BC,Bladder Cancer Surgery,50th percentile,2016,22
+BC,Colorectal Cancer Surgery,50th percentile,2016,21
+BC,Lung Cancer Surgery,50th percentile,2016,19
+BC,Prostate Cancer Surgery,50th percentile,2016,36
+BC,Hip Replacement,50th percentile,2016,181
+BC,Hip Replacement,50th percentile,2016,102
+BC,Hip Replacement,50th percentile,2016,99
+BC,Hip Replacement,50th percentile,2016,197
+BC,Hip Replacement,50th percentile,2016,164
+BC,Knee Replacement,50th percentile,2016,222
+BC,Knee Replacement,50th percentile,2016,174
+BC,Knee Replacement,50th percentile,2016,112
+BC,Knee Replacement,50th percentile,2016,255
+BC,Knee Replacement,50th percentile,2016,196
+BC,Hip Replacement,50th percentile,2017,133
+BC,Knee Replacement,50th percentile,2017,196
+BC,Radiation Therapy,50th percentile,2017,9
+BC,Hip Fracture Repair,50th percentile,2017,1.04
+BC,Cataract Surgery,50th percentile,2017,78
+BC,CABG,50th percentile,2017,7
+BC,Breast Cancer Surgery,50th percentile,2017,18
+BC,Bladder Cancer Surgery,50th percentile,2017,22
+BC,Colorectal Cancer Surgery,50th percentile,2017,21
+BC,Lung Cancer Surgery,50th percentile,2017,27
+BC,Prostate Cancer Surgery,50th percentile,2017,39
+BC,Hip Replacement,50th percentile,2017,175
+BC,Hip Replacement,50th percentile,2017,106
+BC,Hip Replacement,50th percentile,2017,94
+BC,Hip Replacement,50th percentile,2017,190
+BC,Hip Replacement,50th percentile,2017,151
+BC,Knee Replacement,50th percentile,2017,210
+BC,Knee Replacement,50th percentile,2017,169
+BC,Knee Replacement,50th percentile,2017,127
+BC,Knee Replacement,50th percentile,2017,242
+BC,Knee Replacement,50th percentile,2017,291
+BC,Hip Replacement,50th percentile,2018,120
+BC,Knee Replacement,50th percentile,2018,152
+BC,Radiation Therapy,50th percentile,2018,9
+BC,Hip Fracture Repair,50th percentile,2018,1.12
+BC,Cataract Surgery,50th percentile,2018,70
+BC,CABG,50th percentile,2018,6
+BC,MRI Scan,50th percentile,2018,45
+BC,CT Scan,50th percentile,2018,23
+BC,Breast Cancer Surgery,50th percentile,2018,19
+BC,Bladder Cancer Surgery,50th percentile,2018,24
+BC,Colorectal Cancer Surgery,50th percentile,2018,20
+BC,Lung Cancer Surgery,50th percentile,2018,25
+BC,Prostate Cancer Surgery,50th percentile,2018,40
+BC,Hip Replacement,50th percentile,2018,177
+BC,Hip Replacement,50th percentile,2018,97
+BC,Hip Replacement,50th percentile,2018,105
+BC,Hip Replacement,50th percentile,2018,126
+BC,Hip Replacement,50th percentile,2018,118
+BC,Knee Replacement,50th percentile,2018,197
+BC,Knee Replacement,50th percentile,2018,135
+BC,Knee Replacement,50th percentile,2018,134
+BC,Knee Replacement,50th percentile,2018,154
+BC,Knee Replacement,50th percentile,2018,146
+BC,Bladder Cancer Surgery,50th percentile,2019,23
+BC,Breast Cancer Surgery,50th percentile,2019,19
+BC,CABG,50th percentile,2019,6
+BC,Cataract Surgery,50th percentile,2019,66
+BC,Colorectal Cancer Surgery,50th percentile,2019,21
+BC,CT Scan,50th percentile,2019,20
+BC,Hip Fracture Repair,50th percentile,2019,1.21
+BC,Hip Replacement,50th percentile,2019,96
+BC,Knee Replacement,50th percentile,2019,123
+BC,Lung Cancer Surgery,50th percentile,2019,22
+BC,MRI Scan,50th percentile,2019,43
+BC,Prostate Cancer Surgery,50th percentile,2019,42
+BC,Radiation Therapy,50th percentile,2019,10
+BC,Hip Replacement,50th percentile,2019,158
+BC,Hip Replacement,50th percentile,2019,100
+BC,Hip Replacement,50th percentile,2019,88
+BC,Hip Replacement,50th percentile,2019,83
+BC,Hip Replacement,50th percentile,2019,70
+BC,Knee Replacement,50th percentile,2019,169
+BC,Knee Replacement,50th percentile,2019,164
+BC,Knee Replacement,50th percentile,2019,111
+BC,Knee Replacement,50th percentile,2019,92
+BC,Knee Replacement,50th percentile,2019,70
+BC,Bladder Cancer Surgery,50th percentile,2020,20
+BC,Breast Cancer Surgery,50th percentile,2020,15
+BC,CABG,50th percentile,2020,4
+BC,Cataract Surgery,50th percentile,2020,105
+BC,Hip Replacement,50th percentile,2020,156
+BC,Hip Replacement,50th percentile,2020,170
+BC,Hip Replacement,50th percentile,2020,192
+BC,Hip Replacement,50th percentile,2020,147
+BC,Hip Replacement,50th percentile,2020,114
+BC,Knee Replacement,50th percentile,2020,187
+BC,Knee Replacement,50th percentile,2020,219
+BC,Knee Replacement,50th percentile,2020,188
+BC,Knee Replacement,50th percentile,2020,167
+BC,Knee Replacement,50th percentile,2020,99
+BC,Colorectal Cancer Surgery,50th percentile,2020,16
+BC,CT Scan,50th percentile,2020,21
+BC,Hip Fracture Repair,50th percentile,2020,1.17
+BC,Hip Replacement,50th percentile,2020,158
+BC,Knee Replacement,50th percentile,2020,183
+BC,Lung Cancer Surgery,50th percentile,2020,17
+BC,MRI Scan,50th percentile,2020,70
+BC,Prostate Cancer Surgery,50th percentile,2020,30
+BC,Radiation Therapy,50th percentile,2020,12
+BC,Hip Replacement,50th percentile,2021,102
+BC,Knee Replacement,50th percentile,2021,119
+BC,Radiation Therapy,50th percentile,2021,13
+BC,Hip Fracture Repair,50th percentile,2021,1.29
+BC,Cataract Surgery,50th percentile,2021,47
+BC,CABG,50th percentile,2021,6
+BC,MRI Scan,50th percentile,2021,42
+BC,CT Scan,50th percentile,2021,21
+BC,Breast Cancer Surgery,50th percentile,2021,18
+BC,Bladder Cancer Surgery,50th percentile,2021,25
+BC,Colorectal Cancer Surgery,50th percentile,2021,19
+BC,Lung Cancer Surgery,50th percentile,2021,21
+BC,Prostate Cancer Surgery,50th percentile,2021,37
+BC,Hip Replacement,50th percentile,2021,108
+BC,Hip Replacement,50th percentile,2021,88
+BC,Hip Replacement,50th percentile,2021,126
+BC,Hip Replacement,50th percentile,2021,85
+BC,Hip Replacement,50th percentile,2021,189
+BC,Knee Replacement,50th percentile,2021,129
+BC,Knee Replacement,50th percentile,2021,133
+BC,Knee Replacement,50th percentile,2021,133
+BC,Knee Replacement,50th percentile,2021,93
+BC,Knee Replacement,50th percentile,2021,187
+MB,Hip Replacement,50th percentile,2008,139
+MB,Knee Replacement,50th percentile,2008,174
+MB,Radiation Therapy,50th percentile,2008,5
+MB,Cataract Surgery,50th percentile,2008,75
+MB,CABG,50th percentile,2008,17
+MB,CABG,50th percentile,2009,13
+MB,Hip Replacement,50th percentile,2009,124
+MB,Knee Replacement,50th percentile,2009,160
+MB,Radiation Therapy,50th percentile,2009,6
+MB,Hip Fracture Repair,50th percentile,2009,1.08
+MB,Cataract Surgery,50th percentile,2009,82
+MB,CABG,50th percentile,2010,14
+MB,Hip Replacement,50th percentile,2010,141
+MB,Knee Replacement,50th percentile,2010,172
+MB,Radiation Therapy,50th percentile,2010,6
+MB,Hip Fracture Repair,50th percentile,2010,0.92
+MB,Cataract Surgery,50th percentile,2010,82
+MB,CABG,50th percentile,2011,15
+MB,Hip Replacement,50th percentile,2011,146
+MB,Knee Replacement,50th percentile,2011,176
+MB,Radiation Therapy,50th percentile,2011,6
+MB,Hip Fracture Repair,50th percentile,2011,0.92
+MB,Cataract Surgery,50th percentile,2011,76
+MB,MRI Scan,50th percentile,2011,55
+MB,CT Scan,50th percentile,2011,16
+MB,Hip Replacement,50th percentile,2012,160
+MB,Knee Replacement,50th percentile,2012,198
+MB,Radiation Therapy,50th percentile,2012,6
+MB,Hip Fracture Repair,50th percentile,2012,0.83
+MB,Cataract Surgery,50th percentile,2012,87
+MB,CABG,50th percentile,2012,12
+MB,MRI Scan,50th percentile,2012,43
+MB,CT Scan,50th percentile,2012,16
+MB,Hip Replacement,50th percentile,2013,119
+MB,Knee Replacement,50th percentile,2013,157
+MB,Radiation Therapy,50th percentile,2013,7
+MB,Hip Fracture Repair,50th percentile,2013,0.83
+MB,Cataract Surgery,50th percentile,2013,86
+MB,CABG,50th percentile,2013,11
+MB,MRI Scan,50th percentile,2013,70
+MB,CT Scan,50th percentile,2013,18
+MB,Breast Cancer Surgery,50th percentile,2013,27
+MB,Lung Cancer Surgery,50th percentile,2013,19
+MB,Hip Replacement,50th percentile,2014,104
+MB,Knee Replacement,50th percentile,2014,112
+MB,Radiation Therapy,50th percentile,2014,7
+MB,Hip Fracture Repair,50th percentile,2014,0.83
+MB,Cataract Surgery,50th percentile,2014,78
+MB,CABG,50th percentile,2014,12
+MB,MRI Scan,50th percentile,2014,82
+MB,CT Scan,50th percentile,2014,16
+MB,Breast Cancer Surgery,50th percentile,2014,22
+MB,Lung Cancer Surgery,50th percentile,2014,20
+MB,Hip Replacement,50th percentile,2014,167
+MB,Hip Replacement,50th percentile,2014,54
+MB,Hip Replacement,50th percentile,2014,98
+MB,Knee Replacement,50th percentile,2014,171
+MB,Knee Replacement,50th percentile,2014,123
+MB,Knee Replacement,50th percentile,2014,102
+MB,Hip Replacement,50th percentile,2015,118
+MB,Knee Replacement,50th percentile,2015,138
+MB,Radiation Therapy,50th percentile,2015,7
+MB,Hip Fracture Repair,50th percentile,2015,0.79
+MB,Cataract Surgery,50th percentile,2015,122
+MB,CABG,50th percentile,2015,9
+MB,MRI Scan,50th percentile,2015,99
+MB,CT Scan,50th percentile,2015,18
+MB,Breast Cancer Surgery,50th percentile,2015,27
+MB,Lung Cancer Surgery,50th percentile,2015,24
+MB,Hip Replacement,50th percentile,2015,156
+MB,Hip Replacement,50th percentile,2015,101
+MB,Hip Replacement,50th percentile,2015,109
+MB,Knee Replacement,50th percentile,2015,197
+MB,Knee Replacement,50th percentile,2015,131
+MB,Knee Replacement,50th percentile,2015,132
+MB,Hip Replacement,50th percentile,2016,136
+MB,Knee Replacement,50th percentile,2016,160
+MB,Radiation Therapy,50th percentile,2016,10
+MB,Hip Fracture Repair,50th percentile,2016,0.79
+MB,Cataract Surgery,50th percentile,2016,148
+MB,CABG,50th percentile,2016,9
+MB,MRI Scan,50th percentile,2016,110
+MB,CT Scan,50th percentile,2016,21
+MB,Breast Cancer Surgery,50th percentile,2016,23
+MB,Lung Cancer Surgery,50th percentile,2016,25
+MB,Hip Replacement,50th percentile,2016,141
+MB,Hip Replacement,50th percentile,2016,91
+MB,Hip Replacement,50th percentile,2016,139
+MB,Knee Replacement,50th percentile,2016,172
+MB,Knee Replacement,50th percentile,2016,145
+MB,Knee Replacement,50th percentile,2016,161
+MB,Hip Replacement,50th percentile,2017,169
+MB,Knee Replacement,50th percentile,2017,203
+MB,Radiation Therapy,50th percentile,2017,12
+MB,Hip Fracture Repair,50th percentile,2017,0.83
+MB,Cataract Surgery,50th percentile,2017,155
+MB,CABG,50th percentile,2017,9
+MB,MRI Scan,50th percentile,2017,76
+MB,CT Scan,50th percentile,2017,19
+MB,Breast Cancer Surgery,50th percentile,2017,21
+MB,Lung Cancer Surgery,50th percentile,2017,24
+MB,Hip Replacement,50th percentile,2017,223
+MB,Hip Replacement,50th percentile,2017,141
+MB,Hip Replacement,50th percentile,2017,156
+MB,Knee Replacement,50th percentile,2017,292
+MB,Knee Replacement,50th percentile,2017,191
+MB,Knee Replacement,50th percentile,2017,193
+MB,Hip Replacement,50th percentile,2018,186
+MB,Knee Replacement,50th percentile,2018,230
+MB,Radiation Therapy,50th percentile,2018,9
+MB,Hip Fracture Repair,50th percentile,2018,0.79
+MB,Cataract Surgery,50th percentile,2018,167
+MB,CABG,50th percentile,2018,8
+MB,MRI Scan,50th percentile,2018,56
+MB,CT Scan,50th percentile,2018,20
+MB,Breast Cancer Surgery,50th percentile,2018,22
+MB,Lung Cancer Surgery,50th percentile,2018,24
+MB,Hip Replacement,50th percentile,2018,367
+MB,Hip Replacement,50th percentile,2018,273
+MB,Hip Replacement,50th percentile,2018,150
+MB,Knee Replacement,50th percentile,2018,368
+MB,Knee Replacement,50th percentile,2018,308
+MB,Knee Replacement,50th percentile,2018,196
+MB,Breast Cancer Surgery,50th percentile,2019,28
+MB,CABG,50th percentile,2019,8
+MB,Cataract Surgery,50th percentile,2019,162
+MB,CT Scan,50th percentile,2019,23
+MB,Hip Fracture Repair,50th percentile,2019,0.79
+MB,Hip Replacement,50th percentile,2019,163
+MB,Knee Replacement,50th percentile,2019,203
+MB,Lung Cancer Surgery,50th percentile,2019,34
+MB,MRI Scan,50th percentile,2019,55
+MB,Radiation Therapy,50th percentile,2019,9
+MB,Hip Replacement,50th percentile,2019,334
+MB,Hip Replacement,50th percentile,2019,295
+MB,Hip Replacement,50th percentile,2019,145
+MB,Knee Replacement,50th percentile,2019,405
+MB,Knee Replacement,50th percentile,2019,354
+MB,Knee Replacement,50th percentile,2019,170
+MB,Breast Cancer Surgery,50th percentile,2020,22
+MB,CABG,50th percentile,2020,7
+MB,Cataract Surgery,50th percentile,2020,214
+MB,Hip Replacement,50th percentile,2020,227
+MB,Hip Replacement,50th percentile,2020,353
+MB,Hip Replacement,50th percentile,2020,169
+MB,Knee Replacement,50th percentile,2020,261
+MB,Knee Replacement,50th percentile,2020,412
+MB,Knee Replacement,50th percentile,2020,205
+MB,CT Scan,50th percentile,2020,21
+MB,Hip Fracture Repair,50th percentile,2020,0.75
+MB,Hip Replacement,50th percentile,2020,196
+MB,Knee Replacement,50th percentile,2020,238
+MB,Lung Cancer Surgery,50th percentile,2020,25
+MB,MRI Scan,50th percentile,2020,83
+MB,Radiation Therapy,50th percentile,2020,9
+MB,Hip Replacement,50th percentile,2021,169
+MB,Knee Replacement,50th percentile,2021,237
+MB,Radiation Therapy,50th percentile,2021,13
+MB,Hip Fracture Repair,50th percentile,2021,0.83
+MB,Cataract Surgery,50th percentile,2021,141
+MB,CABG,50th percentile,2021,7
+MB,MRI Scan,50th percentile,2021,66
+MB,CT Scan,50th percentile,2021,28
+MB,Breast Cancer Surgery,50th percentile,2021,21
+MB,Lung Cancer Surgery,50th percentile,2021,22
+MB,Hip Replacement,50th percentile,2021,132
+MB,Hip Replacement,50th percentile,2021,363
+MB,Hip Replacement,50th percentile,2021,153
+MB,Knee Replacement,50th percentile,2021,168
+MB,Knee Replacement,50th percentile,2021,429
+MB,Knee Replacement,50th percentile,2021,217
+NB,Hip Replacement,50th percentile,2008,140
+NB,Knee Replacement,50th percentile,2008,167
+NB,Cataract Surgery,50th percentile,2008,57
+NB,CABG,50th percentile,2008,3
+NB,Hip Replacement,50th percentile,2009,94
+NB,Knee Replacement,50th percentile,2009,137
+NB,Hip Fracture Repair,50th percentile,2009,0.79
+NB,Cataract Surgery,50th percentile,2009,45
+NB,CABG,50th percentile,2009,6
+NB,CABG,50th percentile,2010,5
+NB,Hip Replacement,50th percentile,2010,86
+NB,Knee Replacement,50th percentile,2010,119
+NB,Hip Fracture Repair,50th percentile,2010,0.88
+NB,Cataract Surgery,50th percentile,2010,44
+NB,CABG,50th percentile,2011,7
+NB,Hip Replacement,50th percentile,2011,120
+NB,Knee Replacement,50th percentile,2011,172
+NB,Hip Fracture Repair,50th percentile,2011,0.83
+NB,Cataract Surgery,50th percentile,2011,35
+NB,Hip Replacement,50th percentile,2012,112
+NB,Knee Replacement,50th percentile,2012,143
+NB,Radiation Therapy,50th percentile,2012,7
+NB,Hip Fracture Repair,50th percentile,2012,0.79
+NB,Cataract Surgery,50th percentile,2012,33
+NB,CABG,50th percentile,2012,5
+NB,Hip Replacement,50th percentile,2013,109
+NB,Knee Replacement,50th percentile,2013,143
+NB,Radiation Therapy,50th percentile,2013,7
+NB,Hip Fracture Repair,50th percentile,2013,0.83
+NB,Cataract Surgery,50th percentile,2013,25
+NB,CABG,50th percentile,2013,4
+NB,Breast Cancer Surgery,50th percentile,2013,8
+NB,Bladder Cancer Surgery,50th percentile,2013,17
+NB,Colorectal Cancer Surgery,50th percentile,2013,13
+NB,Lung Cancer Surgery,50th percentile,2013,14
+NB,Prostate Cancer Surgery,50th percentile,2013,20
+NB,Hip Replacement,50th percentile,2014,127
+NB,Knee Replacement,50th percentile,2014,188
+NB,Radiation Therapy,50th percentile,2014,7
+NB,Hip Fracture Repair,50th percentile,2014,0.79
+NB,Cataract Surgery,50th percentile,2014,43
+NB,CABG,50th percentile,2014,8
+NB,Breast Cancer Surgery,50th percentile,2014,20
+NB,Bladder Cancer Surgery,50th percentile,2014,24
+NB,Colorectal Cancer Surgery,50th percentile,2014,15
+NB,Lung Cancer Surgery,50th percentile,2014,18
+NB,Prostate Cancer Surgery,50th percentile,2014,36
+NB,Hip Replacement,50th percentile,2014,131
+NB,Hip Replacement,50th percentile,2014,113
+NB,Knee Replacement,50th percentile,2014,199
+NB,Knee Replacement,50th percentile,2014,160
+NB,Hip Replacement,50th percentile,2015,134
+NB,Knee Replacement,50th percentile,2015,161
+NB,Radiation Therapy,50th percentile,2015,6
+NB,Hip Fracture Repair,50th percentile,2015,0.88
+NB,Cataract Surgery,50th percentile,2015,48
+NB,CABG,50th percentile,2015,8
+NB,Breast Cancer Surgery,50th percentile,2015,19
+NB,Bladder Cancer Surgery,50th percentile,2015,25
+NB,Colorectal Cancer Surgery,50th percentile,2015,20
+NB,Lung Cancer Surgery,50th percentile,2015,33
+NB,Prostate Cancer Surgery,50th percentile,2015,43
+NB,Hip Replacement,50th percentile,2015,115
+NB,Hip Replacement,50th percentile,2015,179
+NB,Knee Replacement,50th percentile,2015,162
+NB,Knee Replacement,50th percentile,2015,160
+NB,Hip Replacement,50th percentile,2016,164
+NB,Knee Replacement,50th percentile,2016,180
+NB,Radiation Therapy,50th percentile,2016,7
+NB,Hip Fracture Repair,50th percentile,2016,0.79
+NB,Cataract Surgery,50th percentile,2016,64
+NB,CABG,50th percentile,2016,10
+NB,Breast Cancer Surgery,50th percentile,2016,19
+NB,Bladder Cancer Surgery,50th percentile,2016,31
+NB,Colorectal Cancer Surgery,50th percentile,2016,21
+NB,Lung Cancer Surgery,50th percentile,2016,29
+NB,Prostate Cancer Surgery,50th percentile,2016,39
+NB,Hip Replacement,50th percentile,2016,162
+NB,Hip Replacement,50th percentile,2016,164
+NB,Knee Replacement,50th percentile,2016,194
+NB,Knee Replacement,50th percentile,2016,157
+NB,Hip Replacement,50th percentile,2017,162
+NB,Knee Replacement,50th percentile,2017,201
+NB,Radiation Therapy,50th percentile,2017,8
+NB,Hip Fracture Repair,50th percentile,2017,0.71
+NB,Cataract Surgery,50th percentile,2017,55
+NB,CABG,50th percentile,2017,8
+NB,Breast Cancer Surgery,50th percentile,2017,22
+NB,Bladder Cancer Surgery,50th percentile,2017,30
+NB,Colorectal Cancer Surgery,50th percentile,2017,22
+NB,Lung Cancer Surgery,50th percentile,2017,35
+NB,Prostate Cancer Surgery,50th percentile,2017,39
+NB,Hip Replacement,50th percentile,2017,169
+NB,Hip Replacement,50th percentile,2017,146
+NB,Knee Replacement,50th percentile,2017,225
+NB,Knee Replacement,50th percentile,2017,171
+NB,Hip Replacement,50th percentile,2018,170
+NB,Knee Replacement,50th percentile,2018,209
+NB,Radiation Therapy,50th percentile,2018,11
+NB,Hip Fracture Repair,50th percentile,2018,0.79
+NB,Cataract Surgery,50th percentile,2018,58
+NB,CABG,50th percentile,2018,8
+NB,Breast Cancer Surgery,50th percentile,2018,23
+NB,Bladder Cancer Surgery,50th percentile,2018,29
+NB,Colorectal Cancer Surgery,50th percentile,2018,22
+NB,Lung Cancer Surgery,50th percentile,2018,26
+NB,Prostate Cancer Surgery,50th percentile,2018,33
+NB,Hip Replacement,50th percentile,2018,197
+NB,Hip Replacement,50th percentile,2018,114
+NB,Knee Replacement,50th percentile,2018,238
+NB,Knee Replacement,50th percentile,2018,134
+NB,Bladder Cancer Surgery,50th percentile,2019,25
+NB,Breast Cancer Surgery,50th percentile,2019,20
+NB,CABG,50th percentile,2019,8
+NB,Cataract Surgery,50th percentile,2019,70
+NB,Colorectal Cancer Surgery,50th percentile,2019,22
+NB,Hip Fracture Repair,50th percentile,2019,0.75
+NB,Hip Replacement,50th percentile,2019,195
+NB,Knee Replacement,50th percentile,2019,197
+NB,Lung Cancer Surgery,50th percentile,2019,33
+NB,Prostate Cancer Surgery,50th percentile,2019,31
+NB,Radiation Therapy,50th percentile,2019,12
+NB,Hip Replacement,50th percentile,2019,237
+NB,Hip Replacement,50th percentile,2019,114
+NB,Knee Replacement,50th percentile,2019,273
+NB,Knee Replacement,50th percentile,2019,144
+NB,Bladder Cancer Surgery,50th percentile,2020,25
+NB,Breast Cancer Surgery,50th percentile,2020,20
+NB,CABG,50th percentile,2020,8
+NB,Cataract Surgery,50th percentile,2020,98
+NB,Colorectal Cancer Surgery,50th percentile,2020,17
+NB,Hip Replacement,50th percentile,2020,287
+NB,Hip Replacement,50th percentile,2020,206
+NB,Knee Replacement,50th percentile,2020,345
+NB,Knee Replacement,50th percentile,2020,213
+NB,Hip Fracture Repair,50th percentile,2020,0.75
+NB,Hip Replacement,50th percentile,2020,268
+NB,Knee Replacement,50th percentile,2020,296
+NB,Lung Cancer Surgery,50th percentile,2020,32
+NB,Prostate Cancer Surgery,50th percentile,2020,43
+NB,Radiation Therapy,50th percentile,2020,10
+NB,Bladder Cancer Surgery,50th percentile,2021,27
+NB,Breast Cancer Surgery,50th percentile,2021,23
+NB,CABG,50th percentile,2021,8
+NB,Cataract Surgery,50th percentile,2021,51
+NB,Colorectal Cancer Surgery,50th percentile,2021,23
+NB,Hip Fracture Repair,50th percentile,2021,0.92
+NB,Hip Replacement,50th percentile,2021,168
+NB,Hip Replacement,50th percentile,2021,197
+NB,Hip Replacement,50th percentile,2021,123
+NB,Knee Replacement,50th percentile,2021,207
+NB,Knee Replacement,50th percentile,2021,241
+NB,Knee Replacement,50th percentile,2021,159
+NB,Lung Cancer Surgery,50th percentile,2021,24
+NB,Prostate Cancer Surgery,50th percentile,2021,39
+NB,Radiation Therapy,50th percentile,2021,13
+NL,Radiation Therapy,50th percentile,2009,9
+NL,CABG,50th percentile,2009,8
+NL,CABG,50th percentile,2010,9
+NL,Hip Replacement,50th percentile,2010,90
+NL,Knee Replacement,50th percentile,2010,113
+NL,Radiation Therapy,50th percentile,2010,14
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2010,1.08
+NL,Cataract Surgery,50th percentile,2010,58
+NL,CABG,50th percentile,2011,5
+NL,Hip Replacement,50th percentile,2011,93
+NL,Knee Replacement,50th percentile,2011,139
+NL,Radiation Therapy,50th percentile,2011,14
+NL,Hip Fracture Repair,50th percentile,2011,0.92
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2011,1
+NL,Cataract Surgery,50th percentile,2011,73
+NL,Hip Replacement,50th percentile,2012,89
+NL,Knee Replacement,50th percentile,2012,105
+NL,Radiation Therapy,50th percentile,2012,8
+NL,Hip Fracture Repair,50th percentile,2012,1.08
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2012,1.25
+NL,Cataract Surgery,50th percentile,2012,52
+NL,CABG,50th percentile,2012,6
+NL,Hip Replacement,50th percentile,2013,82
+NL,Knee Replacement,50th percentile,2013,77
+NL,Radiation Therapy,50th percentile,2013,14
+NL,Hip Fracture Repair,50th percentile,2013,0.79
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2013,1.08
+NL,Cataract Surgery,50th percentile,2013,35
+NL,CABG,50th percentile,2013,9
+NL,Breast Cancer Surgery,50th percentile,2013,13
+NL,Bladder Cancer Surgery,50th percentile,2013,19
+NL,Colorectal Cancer Surgery,50th percentile,2013,14
+NL,Prostate Cancer Surgery,50th percentile,2013,31
+NL,Hip Replacement,50th percentile,2014,86
+NL,Knee Replacement,50th percentile,2014,98
+NL,Radiation Therapy,50th percentile,2014,14
+NL,Hip Fracture Repair,50th percentile,2014,1.25
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2014,1.12
+NL,Cataract Surgery,50th percentile,2014,39
+NL,CABG,50th percentile,2014,8
+NL,Breast Cancer Surgery,50th percentile,2014,14
+NL,Bladder Cancer Surgery,50th percentile,2014,26
+NL,Colorectal Cancer Surgery,50th percentile,2014,15
+NL,Prostate Cancer Surgery,50th percentile,2014,32
+NL,Hip Replacement,50th percentile,2014,48
+NL,Hip Replacement,50th percentile,2014,65
+NL,Hip Replacement,50th percentile,2014,97
+NL,Hip Replacement,50th percentile,2014,89
+NL,Knee Replacement,50th percentile,2014,50
+NL,Knee Replacement,50th percentile,2014,81
+NL,Knee Replacement,50th percentile,2014,108
+NL,Knee Replacement,50th percentile,2014,135
+NL,Hip Replacement,50th percentile,2015,83
+NL,Knee Replacement,50th percentile,2015,99
+NL,Radiation Therapy,50th percentile,2015,13
+NL,Hip Fracture Repair,50th percentile,2015,0.92
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2015,1
+NL,Cataract Surgery,50th percentile,2015,40
+NL,CABG,50th percentile,2015,9
+NL,Breast Cancer Surgery,50th percentile,2015,15
+NL,Bladder Cancer Surgery,50th percentile,2015,24
+NL,Colorectal Cancer Surgery,50th percentile,2015,13
+NL,Prostate Cancer Surgery,50th percentile,2015,37
+NL,Hip Replacement,50th percentile,2015,81
+NL,Hip Replacement,50th percentile,2015,48
+NL,Hip Replacement,50th percentile,2015,94
+NL,Hip Replacement,50th percentile,2015,48
+NL,Knee Replacement,50th percentile,2015,67
+NL,Knee Replacement,50th percentile,2015,53
+NL,Knee Replacement,50th percentile,2015,97
+NL,Knee Replacement,50th percentile,2015,148
+NL,Hip Replacement,50th percentile,2016,100
+NL,Knee Replacement,50th percentile,2016,127
+NL,Radiation Therapy,50th percentile,2016,12
+NL,Hip Fracture Repair,50th percentile,2016,0.83
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2016,0.92
+NL,Cataract Surgery,50th percentile,2016,65
+NL,CABG,50th percentile,2016,6
+NL,Breast Cancer Surgery,50th percentile,2016,17
+NL,Bladder Cancer Surgery,50th percentile,2016,23
+NL,Colorectal Cancer Surgery,50th percentile,2016,13
+NL,Prostate Cancer Surgery,50th percentile,2016,27
+NL,Hip Replacement,50th percentile,2016,64
+NL,Hip Replacement,50th percentile,2016,77
+NL,Hip Replacement,50th percentile,2016,124
+NL,Hip Replacement,50th percentile,2016,44
+NL,Knee Replacement,50th percentile,2016,95
+NL,Knee Replacement,50th percentile,2016,76
+NL,Knee Replacement,50th percentile,2016,152
+NL,Knee Replacement,50th percentile,2016,115
+NL,Hip Replacement,50th percentile,2017,81
+NL,Knee Replacement,50th percentile,2017,145
+NL,Radiation Therapy,50th percentile,2017,12
+NL,Hip Fracture Repair,50th percentile,2017,0.83
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2017,0.92
+NL,Cataract Surgery,50th percentile,2017,63
+NL,CABG,50th percentile,2017,6
+NL,Breast Cancer Surgery,50th percentile,2017,14
+NL,Bladder Cancer Surgery,50th percentile,2017,21
+NL,Colorectal Cancer Surgery,50th percentile,2017,12
+NL,Lung Cancer Surgery,50th percentile,2017,23
+NL,Prostate Cancer Surgery,50th percentile,2017,34
+NL,Hip Replacement,50th percentile,2017,92
+NL,Hip Replacement,50th percentile,2017,45
+NL,Hip Replacement,50th percentile,2017,92
+NL,Hip Replacement,50th percentile,2017,51
+NL,Knee Replacement,50th percentile,2017,140
+NL,Knee Replacement,50th percentile,2017,36
+NL,Knee Replacement,50th percentile,2017,149
+NL,Knee Replacement,50th percentile,2017,155
+NL,Hip Replacement,50th percentile,2018,92
+NL,Knee Replacement,50th percentile,2018,132
+NL,Radiation Therapy,50th percentile,2018,14
+NL,Hip Fracture Repair,50th percentile,2018,0.83
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2018,0.88
+NL,Cataract Surgery,50th percentile,2018,85
+NL,CABG,50th percentile,2018,6
+NL,Breast Cancer Surgery,50th percentile,2018,19
+NL,Bladder Cancer Surgery,50th percentile,2018,23
+NL,Colorectal Cancer Surgery,50th percentile,2018,14
+NL,Lung Cancer Surgery,50th percentile,2018,27
+NL,Prostate Cancer Surgery,50th percentile,2018,36
+NL,Hip Replacement,50th percentile,2018,115
+NL,Hip Replacement,50th percentile,2018,62
+NL,Hip Replacement,50th percentile,2018,101
+NL,Hip Replacement,50th percentile,2018,84
+NL,Knee Replacement,50th percentile,2018,118
+NL,Knee Replacement,50th percentile,2018,54
+NL,Knee Replacement,50th percentile,2018,137
+NL,Knee Replacement,50th percentile,2018,129
+NL,Bladder Cancer Surgery,50th percentile,2019,21
+NL,Breast Cancer Surgery,50th percentile,2019,16
+NL,CABG,50th percentile,2019,9
+NL,Cataract Surgery,50th percentile,2019,95
+NL,Colorectal Cancer Surgery,50th percentile,2019,15
+NL,Hip Fracture Repair,50th percentile,2019,0.88
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2019,0.92
+NL,Hip Replacement,50th percentile,2019,113
+NL,Knee Replacement,50th percentile,2019,133
+NL,Lung Cancer Surgery,50th percentile,2019,20
+NL,Prostate Cancer Surgery,50th percentile,2019,43
+NL,Radiation Therapy,50th percentile,2019,16
+NL,Hip Replacement,50th percentile,2019,99
+NL,Hip Replacement,50th percentile,2019,75
+NL,Hip Replacement,50th percentile,2019,149
+NL,Hip Replacement,50th percentile,2019,75
+NL,Knee Replacement,50th percentile,2019,98
+NL,Knee Replacement,50th percentile,2019,90
+NL,Knee Replacement,50th percentile,2019,157
+NL,Knee Replacement,50th percentile,2019,124
+NL,Bladder Cancer Surgery,50th percentile,2020,20
+NL,Breast Cancer Surgery,50th percentile,2020,14
+NL,CABG,50th percentile,2020,9
+NL,Cataract Surgery,50th percentile,2020,264
+NL,Colorectal Cancer Surgery,50th percentile,2020,12
+NL,Hip Fracture Repair,50th percentile,2020,1.04
+NL,Hip Replacement,50th percentile,2020,196
+NL,Hip Replacement,50th percentile,2020,204
+NL,Hip Replacement,50th percentile,2020,97
+NL,Knee Replacement,50th percentile,2020,191
+NL,Knee Replacement,50th percentile,2020,223
+NL,Knee Replacement,50th percentile,2020,302
+NL,Knee Replacement,50th percentile,2020,380
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2020,1.04
+NL,Hip Replacement,50th percentile,2020,204
+NL,Knee Replacement,50th percentile,2020,286
+NL,Lung Cancer Surgery,50th percentile,2020,19
+NL,Prostate Cancer Surgery,50th percentile,2020,51
+NL,Radiation Therapy,50th percentile,2020,16
+NL,Hip Replacement,50th percentile,2021,165
+NL,Knee Replacement,50th percentile,2021,210
+NL,Radiation Therapy,50th percentile,2021,15
+NL,Hip Fracture Repair,50th percentile,2021,1
+NL,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2021,0.96
+NL,Cataract Surgery,50th percentile,2021,146
+NL,CABG,50th percentile,2021,13
+NL,Breast Cancer Surgery,50th percentile,2021,16
+NL,Bladder Cancer Surgery,50th percentile,2021,20
+NL,Colorectal Cancer Surgery,50th percentile,2021,14
+NL,Lung Cancer Surgery,50th percentile,2021,19
+NL,Prostate Cancer Surgery,50th percentile,2021,36
+NL,Hip Replacement,50th percentile,2021,70
+NL,Hip Replacement,50th percentile,2021,190
+NL,Hip Replacement,50th percentile,2021,146
+NL,Knee Replacement,50th percentile,2021,99
+NL,Knee Replacement,50th percentile,2021,106
+NL,Knee Replacement,50th percentile,2021,268
+NL,Knee Replacement,50th percentile,2021,278
+NS,Hip Replacement,50th percentile,2008,201
+NS,Knee Replacement,50th percentile,2008,213
+NS,Cataract Surgery,50th percentile,2008,54
+NS,CABG,50th percentile,2008,26
+NS,Hip Replacement,50th percentile,2009,178
+NS,Knee Replacement,50th percentile,2009,195
+NS,Radiation Therapy,50th percentile,2009,21
+NS,Hip Fracture Repair,50th percentile,2009,0.88
+NS,Cataract Surgery,50th percentile,2009,67
+NS,MRI Scan,50th percentile,2009,48
+NS,CT Scan,50th percentile,2009,18
+NS,CABG,50th percentile,2009,63
+NS,CABG,50th percentile,2010,5
+NS,Hip Replacement,50th percentile,2010,160
+NS,Knee Replacement,50th percentile,2010,218
+NS,Radiation Therapy,50th percentile,2010,12
+NS,Hip Fracture Repair,50th percentile,2010,0.92
+NS,Cataract Surgery,50th percentile,2010,69
+NS,MRI Scan,50th percentile,2010,45
+NS,CT Scan,50th percentile,2010,24
+NS,CABG,50th percentile,2011,10
+NS,Hip Replacement,50th percentile,2011,172
+NS,Knee Replacement,50th percentile,2011,252
+NS,Radiation Therapy,50th percentile,2011,13
+NS,Hip Fracture Repair,50th percentile,2011,0.88
+NS,Cataract Surgery,50th percentile,2011,115
+NS,MRI Scan,50th percentile,2011,53
+NS,CT Scan,50th percentile,2011,20
+NS,Hip Replacement,50th percentile,2012,197
+NS,Knee Replacement,50th percentile,2012,302
+NS,Radiation Therapy,50th percentile,2012,9
+NS,Hip Fracture Repair,50th percentile,2012,1
+NS,Cataract Surgery,50th percentile,2012,102
+NS,CABG,50th percentile,2012,5
+NS,MRI Scan,50th percentile,2012,61
+NS,CT Scan,50th percentile,2012,17
+NS,Hip Replacement,50th percentile,2013,181
+NS,Knee Replacement,50th percentile,2013,272
+NS,Radiation Therapy,50th percentile,2013,10
+NS,Hip Fracture Repair,50th percentile,2013,0.92
+NS,Cataract Surgery,50th percentile,2013,93
+NS,CABG,50th percentile,2013,6
+NS,Breast Cancer Surgery,50th percentile,2013,16
+NS,Bladder Cancer Surgery,50th percentile,2013,41
+NS,Colorectal Cancer Surgery,50th percentile,2013,24
+NS,Lung Cancer Surgery,50th percentile,2013,29
+NS,Prostate Cancer Surgery,50th percentile,2013,51
+NS,MRI Scan,50th percentile,2013,43
+NS,CT Scan,50th percentile,2013,20
+NS,Hip Replacement,50th percentile,2014,179
+NS,Knee Replacement,50th percentile,2014,251
+NS,Radiation Therapy,50th percentile,2014,14
+NS,Hip Fracture Repair,50th percentile,2014,1.08
+NS,Cataract Surgery,50th percentile,2014,85
+NS,CABG,50th percentile,2014,6
+NS,Breast Cancer Surgery,50th percentile,2014,16
+NS,Bladder Cancer Surgery,50th percentile,2014,35
+NS,Colorectal Cancer Surgery,50th percentile,2014,24
+NS,Lung Cancer Surgery,50th percentile,2014,34
+NS,Prostate Cancer Surgery,50th percentile,2014,48
+NS,Hip Replacement,50th percentile,2014,257
+NS,Hip Replacement,50th percentile,2014,137
+NS,Hip Replacement,50th percentile,2014,176
+NS,Hip Replacement,50th percentile,2014,164
+NS,Knee Replacement,50th percentile,2014,450
+NS,Knee Replacement,50th percentile,2014,155
+NS,Knee Replacement,50th percentile,2014,167
+NS,Knee Replacement,50th percentile,2014,302
+NS,MRI Scan,50th percentile,2014,62
+NS,CT Scan,50th percentile,2014,21
+NS,Hip Replacement,50th percentile,2015,173
+NS,Knee Replacement,50th percentile,2015,271
+NS,Radiation Therapy,50th percentile,2015,10
+NS,Hip Fracture Repair,50th percentile,2015,0.92
+NS,Cataract Surgery,50th percentile,2015,93
+NS,CABG,50th percentile,2015,9
+NS,MRI Scan,50th percentile,2015,63
+NS,Breast Cancer Surgery,50th percentile,2015,16
+NS,Bladder Cancer Surgery,50th percentile,2015,34
+NS,Colorectal Cancer Surgery,50th percentile,2015,26
+NS,Lung Cancer Surgery,50th percentile,2015,47
+NS,Prostate Cancer Surgery,50th percentile,2015,46
+NS,Hip Replacement,50th percentile,2015,296
+NS,Hip Replacement,50th percentile,2015,183
+NS,Hip Replacement,50th percentile,2015,112
+NS,Hip Replacement,50th percentile,2015,165
+NS,Knee Replacement,50th percentile,2015,313
+NS,Knee Replacement,50th percentile,2015,271
+NS,Knee Replacement,50th percentile,2015,122
+NS,Knee Replacement,50th percentile,2015,386
+NS,CT Scan,50th percentile,2015,20
+NS,MRI Scan,50th percentile,2016,60
+NS,Hip Replacement,50th percentile,2016,152
+NS,Knee Replacement,50th percentile,2016,260
+NS,Radiation Therapy,50th percentile,2016,11
+NS,Hip Fracture Repair,50th percentile,2016,0.88
+NS,Cataract Surgery,50th percentile,2016,92
+NS,CABG,50th percentile,2016,7
+NS,Breast Cancer Surgery,50th percentile,2016,16
+NS,Bladder Cancer Surgery,50th percentile,2016,31
+NS,Colorectal Cancer Surgery,50th percentile,2016,24
+NS,Lung Cancer Surgery,50th percentile,2016,45
+NS,Prostate Cancer Surgery,50th percentile,2016,40
+NS,Hip Replacement,50th percentile,2016,212
+NS,Hip Replacement,50th percentile,2016,182
+NS,Hip Replacement,50th percentile,2016,64
+NS,Hip Replacement,50th percentile,2016,160
+NS,Knee Replacement,50th percentile,2016,294
+NS,Knee Replacement,50th percentile,2016,332
+NS,Knee Replacement,50th percentile,2016,85
+NS,Knee Replacement,50th percentile,2016,315
+NS,CT Scan,50th percentile,2016,24
+NS,MRI Scan,50th percentile,2017,48
+NS,Hip Replacement,50th percentile,2017,179
+NS,Knee Replacement,50th percentile,2017,283
+NS,Radiation Therapy,50th percentile,2017,12
+NS,Hip Fracture Repair,50th percentile,2017,0.88
+NS,Cataract Surgery,50th percentile,2017,90
+NS,CABG,50th percentile,2017,8
+NS,Breast Cancer Surgery,50th percentile,2017,16
+NS,Bladder Cancer Surgery,50th percentile,2017,28
+NS,Colorectal Cancer Surgery,50th percentile,2017,21
+NS,Lung Cancer Surgery,50th percentile,2017,38
+NS,Prostate Cancer Surgery,50th percentile,2017,47
+NS,Hip Replacement,50th percentile,2017,308
+NS,Hip Replacement,50th percentile,2017,202
+NS,Hip Replacement,50th percentile,2017,91
+NS,Hip Replacement,50th percentile,2017,176
+NS,Knee Replacement,50th percentile,2017,320
+NS,Knee Replacement,50th percentile,2017,223
+NS,Knee Replacement,50th percentile,2017,119
+NS,Knee Replacement,50th percentile,2017,353
+NS,CT Scan,50th percentile,2017,28
+NS,MRI Scan,50th percentile,2018,60
+NS,Hip Replacement,50th percentile,2018,186
+NS,Knee Replacement,50th percentile,2018,194
+NS,Radiation Therapy,50th percentile,2018,10
+NS,Hip Fracture Repair,50th percentile,2018,0.79
+NS,Cataract Surgery,50th percentile,2018,76
+NS,CABG,50th percentile,2018,3
+NS,Breast Cancer Surgery,50th percentile,2018,16
+NS,Bladder Cancer Surgery,50th percentile,2018,34
+NS,Colorectal Cancer Surgery,50th percentile,2018,24
+NS,Lung Cancer Surgery,50th percentile,2018,36
+NS,Prostate Cancer Surgery,50th percentile,2018,40
+NS,Hip Replacement,50th percentile,2018,252
+NS,Hip Replacement,50th percentile,2018,223
+NS,Hip Replacement,50th percentile,2018,102
+NS,Hip Replacement,50th percentile,2018,194
+NS,Knee Replacement,50th percentile,2018,300
+NS,Knee Replacement,50th percentile,2018,263
+NS,Knee Replacement,50th percentile,2018,110
+NS,Knee Replacement,50th percentile,2018,190
+NS,CT Scan,50th percentile,2018,28
+NS,MRI Scan,50th percentile,2019,49
+NS,Bladder Cancer Surgery,50th percentile,2019,34
+NS,Breast Cancer Surgery,50th percentile,2019,22
+NS,CABG,50th percentile,2019,7
+NS,Cataract Surgery,50th percentile,2019,92
+NS,Colorectal Cancer Surgery,50th percentile,2019,26
+NS,Hip Fracture Repair,50th percentile,2019,0.83
+NS,Hip Replacement,50th percentile,2019,158
+NS,Knee Replacement,50th percentile,2019,195
+NS,Lung Cancer Surgery,50th percentile,2019,43
+NS,Prostate Cancer Surgery,50th percentile,2019,55
+NS,Radiation Therapy,50th percentile,2019,10
+NS,Hip Replacement,50th percentile,2019,328
+NS,Hip Replacement,50th percentile,2019,77
+NS,Hip Replacement,50th percentile,2019,90
+NS,Hip Replacement,50th percentile,2019,162
+NS,Knee Replacement,50th percentile,2019,377
+NS,Knee Replacement,50th percentile,2019,189
+NS,Knee Replacement,50th percentile,2019,109
+NS,Knee Replacement,50th percentile,2019,188
+NS,CT Scan,50th percentile,2019,25
+NS,MRI Scan,50th percentile,2020,40
+NS,Bladder Cancer Surgery,50th percentile,2020,28
+NS,Breast Cancer Surgery,50th percentile,2020,16
+NS,CABG,50th percentile,2020,9
+NS,Cataract Surgery,50th percentile,2020,185
+NS,Colorectal Cancer Surgery,50th percentile,2020,24
+NS,Hip Fracture Repair,50th percentile,2020,0.92
+NS,Hip Replacement,50th percentile,2020,367
+NS,Hip Replacement,50th percentile,2020,190
+NS,Hip Replacement,50th percentile,2020,156
+NS,Hip Replacement,50th percentile,2020,183
+NS,Knee Replacement,50th percentile,2020,477
+NS,Knee Replacement,50th percentile,2020,371
+NS,Knee Replacement,50th percentile,2020,195
+NS,Knee Replacement,50th percentile,2020,217
+NS,Hip Replacement,50th percentile,2020,190
+NS,Knee Replacement,50th percentile,2020,270
+NS,Lung Cancer Surgery,50th percentile,2020,21
+NS,CT Scan,50th percentile,2020,21
+NS,Prostate Cancer Surgery,50th percentile,2020,53
+NS,Radiation Therapy,50th percentile,2020,10
+NS,Hip Replacement,50th percentile,2021,152
+NS,Knee Replacement,50th percentile,2021,179
+NS,Radiation Therapy,50th percentile,2021,14
+NS,Hip Fracture Repair,50th percentile,2021,0.88
+NS,Cataract Surgery,50th percentile,2021,88
+NS,CABG,50th percentile,2021,7
+NS,MRI Scan,50th percentile,2021,79
+NS,CT Scan,50th percentile,2021,28
+NS,Breast Cancer Surgery,50th percentile,2021,16
+NS,Bladder Cancer Surgery,50th percentile,2021,30
+NS,Colorectal Cancer Surgery,50th percentile,2021,22
+NS,Lung Cancer Surgery,50th percentile,2021,21
+NS,Prostate Cancer Surgery,50th percentile,2021,61
+NS,Hip Replacement,50th percentile,2021,502
+NS,Hip Replacement,50th percentile,2021,134
+NS,Hip Replacement,50th percentile,2021,81
+NS,Hip Replacement,50th percentile,2021,148
+NS,Knee Replacement,50th percentile,2021,490
+NS,Knee Replacement,50th percentile,2021,142
+NS,Knee Replacement,50th percentile,2021,93
+NS,Knee Replacement,50th percentile,2021,181
+ON,Hip Replacement,50th percentile,2008,63
+ON,Knee Replacement,50th percentile,2008,71
+ON,Radiation Therapy,50th percentile,2008,11
+ON,Cataract Surgery,50th percentile,2008,44
+ON,MRI Scan,50th percentile,2008,30
+ON,CT Scan,50th percentile,2008,9
+ON,CABG,50th percentile,2008,19
+ON,Hip Replacement,50th percentile,2009,62
+ON,Knee Replacement,50th percentile,2009,67
+ON,Radiation Therapy,50th percentile,2009,7
+ON,Hip Fracture Repair,50th percentile,2009,1.08
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2009,1.33
+ON,Cataract Surgery,50th percentile,2009,43
+ON,MRI Scan,50th percentile,2009,40
+ON,CT Scan,50th percentile,2009,9
+ON,CABG,50th percentile,2009,7
+ON,Hip Replacement,50th percentile,2010,65
+ON,Knee Replacement,50th percentile,2010,72
+ON,Radiation Therapy,50th percentile,2010,7
+ON,Hip Fracture Repair,50th percentile,2010,1.08
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2010,1.38
+ON,Cataract Surgery,50th percentile,2010,48
+ON,MRI Scan,50th percentile,2010,36
+ON,CT Scan,50th percentile,2010,7
+ON,CABG,50th percentile,2010,6
+ON,CABG,50th percentile,2011,6
+ON,Hip Replacement,50th percentile,2011,70
+ON,Knee Replacement,50th percentile,2011,78
+ON,Radiation Therapy,50th percentile,2011,7
+ON,Hip Fracture Repair,50th percentile,2011,1.12
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2011,1.38
+ON,Cataract Surgery,50th percentile,2011,45
+ON,MRI Scan,50th percentile,2011,34
+ON,CT Scan,50th percentile,2011,7
+ON,Hip Replacement,50th percentile,2012,68
+ON,Knee Replacement,50th percentile,2012,76
+ON,Radiation Therapy,50th percentile,2012,7
+ON,Hip Fracture Repair,50th percentile,2012,1.04
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2012,1.25
+ON,Cataract Surgery,50th percentile,2012,46
+ON,CABG,50th percentile,2012,6
+ON,MRI Scan,50th percentile,2012,29
+ON,CT Scan,50th percentile,2012,6
+ON,Hip Replacement,50th percentile,2013,70
+ON,Knee Replacement,50th percentile,2013,79
+ON,Radiation Therapy,50th percentile,2013,6
+ON,Hip Fracture Repair,50th percentile,2013,1
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2013,1.21
+ON,Cataract Surgery,50th percentile,2013,50
+ON,CABG,50th percentile,2013,6
+ON,MRI Scan,50th percentile,2013,23
+ON,CT Scan,50th percentile,2013,7
+ON,Breast Cancer Surgery,50th percentile,2013,17
+ON,Bladder Cancer Surgery,50th percentile,2013,23
+ON,Colorectal Cancer Surgery,50th percentile,2013,18
+ON,Lung Cancer Surgery,50th percentile,2013,19
+ON,Prostate Cancer Surgery,50th percentile,2013,35
+ON,Hip Replacement,50th percentile,2014,71
+ON,Knee Replacement,50th percentile,2014,75
+ON,Radiation Therapy,50th percentile,2014,7
+ON,Hip Fracture Repair,50th percentile,2014,1
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2014,1.21
+ON,Cataract Surgery,50th percentile,2014,50
+ON,CABG,50th percentile,2014,6
+ON,MRI Scan,50th percentile,2014,29
+ON,CT Scan,50th percentile,2014,7
+ON,Breast Cancer Surgery,50th percentile,2014,16
+ON,Bladder Cancer Surgery,50th percentile,2014,22
+ON,Colorectal Cancer Surgery,50th percentile,2014,18
+ON,Lung Cancer Surgery,50th percentile,2014,18
+ON,Prostate Cancer Surgery,50th percentile,2014,36
+ON,Hip Replacement,50th percentile,2014,73
+ON,Hip Replacement,50th percentile,2014,90
+ON,Hip Replacement,50th percentile,2014,75
+ON,Hip Replacement,50th percentile,2014,67
+ON,Hip Replacement,50th percentile,2014,157
+ON,Hip Replacement,50th percentile,2014,62
+ON,Hip Replacement,50th percentile,2014,61
+ON,Hip Replacement,50th percentile,2014,59
+ON,Hip Replacement,50th percentile,2014,52
+ON,Hip Replacement,50th percentile,2014,71
+ON,Hip Replacement,50th percentile,2014,93
+ON,Hip Replacement,50th percentile,2014,60
+ON,Hip Replacement,50th percentile,2014,86
+ON,Hip Replacement,50th percentile,2014,81
+ON,Knee Replacement,50th percentile,2014,89
+ON,Knee Replacement,50th percentile,2014,97
+ON,Knee Replacement,50th percentile,2014,73
+ON,Knee Replacement,50th percentile,2014,71
+ON,Knee Replacement,50th percentile,2014,184
+ON,Knee Replacement,50th percentile,2014,72
+ON,Knee Replacement,50th percentile,2014,63
+ON,Knee Replacement,50th percentile,2014,62
+ON,Knee Replacement,50th percentile,2014,63
+ON,Knee Replacement,50th percentile,2014,69
+ON,Knee Replacement,50th percentile,2014,86
+ON,Knee Replacement,50th percentile,2014,69
+ON,Knee Replacement,50th percentile,2014,94
+ON,Knee Replacement,50th percentile,2014,85
+ON,Hip Replacement,50th percentile,2015,75
+ON,Knee Replacement,50th percentile,2015,80
+ON,Radiation Therapy,50th percentile,2015,7
+ON,Hip Fracture Repair,50th percentile,2015,0.96
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2015,1.17
+ON,Cataract Surgery,50th percentile,2015,62
+ON,CABG,50th percentile,2015,6
+ON,MRI Scan,50th percentile,2015,36
+ON,CT Scan,50th percentile,2015,7
+ON,Breast Cancer Surgery,50th percentile,2015,16
+ON,Bladder Cancer Surgery,50th percentile,2015,24
+ON,Colorectal Cancer Surgery,50th percentile,2015,18
+ON,Lung Cancer Surgery,50th percentile,2015,18
+ON,Prostate Cancer Surgery,50th percentile,2015,36
+ON,Hip Replacement,50th percentile,2015,76
+ON,Hip Replacement,50th percentile,2015,115
+ON,Hip Replacement,50th percentile,2015,111
+ON,Hip Replacement,50th percentile,2015,63
+ON,Hip Replacement,50th percentile,2015,133
+ON,Hip Replacement,50th percentile,2015,65
+ON,Hip Replacement,50th percentile,2015,73
+ON,Hip Replacement,50th percentile,2015,49
+ON,Hip Replacement,50th percentile,2015,68
+ON,Hip Replacement,50th percentile,2015,76
+ON,Hip Replacement,50th percentile,2015,96
+ON,Hip Replacement,50th percentile,2015,95
+ON,Hip Replacement,50th percentile,2015,55
+ON,Hip Replacement,50th percentile,2015,61
+ON,Knee Replacement,50th percentile,2015,85
+ON,Knee Replacement,50th percentile,2015,123
+ON,Knee Replacement,50th percentile,2015,117
+ON,Knee Replacement,50th percentile,2015,68
+ON,Knee Replacement,50th percentile,2015,112
+ON,Knee Replacement,50th percentile,2015,92
+ON,Knee Replacement,50th percentile,2015,64
+ON,Knee Replacement,50th percentile,2015,58
+ON,Knee Replacement,50th percentile,2015,78
+ON,Knee Replacement,50th percentile,2015,77
+ON,Knee Replacement,50th percentile,2015,91
+ON,Knee Replacement,50th percentile,2015,85
+ON,Knee Replacement,50th percentile,2015,64
+ON,Knee Replacement,50th percentile,2015,102
+ON,Hip Replacement,50th percentile,2016,80
+ON,Knee Replacement,50th percentile,2016,86
+ON,Radiation Therapy,50th percentile,2016,7
+ON,Hip Fracture Repair,50th percentile,2016,0.96
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2016,1.21
+ON,Cataract Surgery,50th percentile,2016,65
+ON,CABG,50th percentile,2016,6
+ON,MRI Scan,50th percentile,2016,33
+ON,CT Scan,50th percentile,2016,6
+ON,Breast Cancer Surgery,50th percentile,2016,16
+ON,Bladder Cancer Surgery,50th percentile,2016,24
+ON,Colorectal Cancer Surgery,50th percentile,2016,18
+ON,Lung Cancer Surgery,50th percentile,2016,17
+ON,Prostate Cancer Surgery,50th percentile,2016,38
+ON,Hip Replacement,50th percentile,2016,75
+ON,Hip Replacement,50th percentile,2016,148
+ON,Hip Replacement,50th percentile,2016,108
+ON,Hip Replacement,50th percentile,2016,88
+ON,Hip Replacement,50th percentile,2016,90
+ON,Hip Replacement,50th percentile,2016,74
+ON,Hip Replacement,50th percentile,2016,55
+ON,Hip Replacement,50th percentile,2016,58
+ON,Hip Replacement,50th percentile,2016,74
+ON,Hip Replacement,50th percentile,2016,102
+ON,Hip Replacement,50th percentile,2016,90
+ON,Hip Replacement,50th percentile,2016,96
+ON,Hip Replacement,50th percentile,2016,64
+ON,Hip Replacement,50th percentile,2016,94
+ON,Knee Replacement,50th percentile,2016,84
+ON,Knee Replacement,50th percentile,2016,169
+ON,Knee Replacement,50th percentile,2016,112
+ON,Knee Replacement,50th percentile,2016,102
+ON,Knee Replacement,50th percentile,2016,141
+ON,Knee Replacement,50th percentile,2016,99
+ON,Knee Replacement,50th percentile,2016,56
+ON,Knee Replacement,50th percentile,2016,61
+ON,Knee Replacement,50th percentile,2016,79
+ON,Knee Replacement,50th percentile,2016,100
+ON,Knee Replacement,50th percentile,2016,95
+ON,Knee Replacement,50th percentile,2016,107
+ON,Knee Replacement,50th percentile,2016,65
+ON,Knee Replacement,50th percentile,2016,76
+ON,Hip Replacement,50th percentile,2017,82
+ON,Knee Replacement,50th percentile,2017,92
+ON,Radiation Therapy,50th percentile,2017,8
+ON,Hip Fracture Repair,50th percentile,2017,0.96
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2017,1.17
+ON,Cataract Surgery,50th percentile,2017,67
+ON,CABG,50th percentile,2017,7
+ON,MRI Scan,50th percentile,2017,35
+ON,CT Scan,50th percentile,2017,6
+ON,Breast Cancer Surgery,50th percentile,2017,15
+ON,Bladder Cancer Surgery,50th percentile,2017,24
+ON,Colorectal Cancer Surgery,50th percentile,2017,19
+ON,Lung Cancer Surgery,50th percentile,2017,16
+ON,Prostate Cancer Surgery,50th percentile,2017,34
+ON,Hip Replacement,50th percentile,2017,69
+ON,Hip Replacement,50th percentile,2017,157
+ON,Hip Replacement,50th percentile,2017,95
+ON,Hip Replacement,50th percentile,2017,116
+ON,Hip Replacement,50th percentile,2017,99
+ON,Hip Replacement,50th percentile,2017,77
+ON,Hip Replacement,50th percentile,2017,51
+ON,Hip Replacement,50th percentile,2017,72
+ON,Hip Replacement,50th percentile,2017,71
+ON,Hip Replacement,50th percentile,2017,95
+ON,Hip Replacement,50th percentile,2017,83
+ON,Hip Replacement,50th percentile,2017,95
+ON,Hip Replacement,50th percentile,2017,69
+ON,Hip Replacement,50th percentile,2017,77
+ON,Knee Replacement,50th percentile,2017,110
+ON,Knee Replacement,50th percentile,2017,184
+ON,Knee Replacement,50th percentile,2017,148
+ON,Knee Replacement,50th percentile,2017,106
+ON,Knee Replacement,50th percentile,2017,145
+ON,Knee Replacement,50th percentile,2017,100
+ON,Knee Replacement,50th percentile,2017,54
+ON,Knee Replacement,50th percentile,2017,78
+ON,Knee Replacement,50th percentile,2017,78
+ON,Knee Replacement,50th percentile,2017,101
+ON,Knee Replacement,50th percentile,2017,83
+ON,Knee Replacement,50th percentile,2017,104
+ON,Knee Replacement,50th percentile,2017,87
+ON,Knee Replacement,50th percentile,2017,65
+ON,Hip Replacement,50th percentile,2018,77
+ON,Knee Replacement,50th percentile,2018,85
+ON,Radiation Therapy,50th percentile,2018,8
+ON,Hip Fracture Repair,50th percentile,2018,1
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2018,1.21
+ON,Cataract Surgery,50th percentile,2018,65
+ON,CABG,50th percentile,2018,6
+ON,MRI Scan,50th percentile,2018,35
+ON,CT Scan,50th percentile,2018,6
+ON,Breast Cancer Surgery,50th percentile,2018,16
+ON,Bladder Cancer Surgery,50th percentile,2018,23
+ON,Colorectal Cancer Surgery,50th percentile,2018,18
+ON,Lung Cancer Surgery,50th percentile,2018,19
+ON,Prostate Cancer Surgery,50th percentile,2018,37
+ON,Hip Replacement,50th percentile,2018,71
+ON,Hip Replacement,50th percentile,2018,141
+ON,Hip Replacement,50th percentile,2018,111
+ON,Hip Replacement,50th percentile,2018,92
+ON,Hip Replacement,50th percentile,2018,91
+ON,Hip Replacement,50th percentile,2018,69
+ON,Hip Replacement,50th percentile,2018,54
+ON,Hip Replacement,50th percentile,2018,63
+ON,Hip Replacement,50th percentile,2018,73
+ON,Hip Replacement,50th percentile,2018,86
+ON,Hip Replacement,50th percentile,2018,86
+ON,Hip Replacement,50th percentile,2018,109
+ON,Hip Replacement,50th percentile,2018,64
+ON,Hip Replacement,50th percentile,2018,58
+ON,Knee Replacement,50th percentile,2018,92
+ON,Knee Replacement,50th percentile,2018,144
+ON,Knee Replacement,50th percentile,2018,129
+ON,Knee Replacement,50th percentile,2018,108
+ON,Knee Replacement,50th percentile,2018,148
+ON,Knee Replacement,50th percentile,2018,99
+ON,Knee Replacement,50th percentile,2018,53
+ON,Knee Replacement,50th percentile,2018,62
+ON,Knee Replacement,50th percentile,2018,81
+ON,Knee Replacement,50th percentile,2018,85
+ON,Knee Replacement,50th percentile,2018,70
+ON,Knee Replacement,50th percentile,2018,117
+ON,Knee Replacement,50th percentile,2018,80
+ON,Knee Replacement,50th percentile,2018,83
+ON,Bladder Cancer Surgery,50th percentile,2019,23
+ON,Breast Cancer Surgery,50th percentile,2019,16
+ON,CABG,50th percentile,2019,6
+ON,Cataract Surgery,50th percentile,2019,63
+ON,Colorectal Cancer Surgery,50th percentile,2019,19
+ON,CT Scan,50th percentile,2019,6
+ON,Hip Fracture Repair,50th percentile,2019,1
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2019,1.25
+ON,Hip Replacement,50th percentile,2019,77
+ON,Knee Replacement,50th percentile,2019,85
+ON,Lung Cancer Surgery,50th percentile,2019,19
+ON,MRI Scan,50th percentile,2019,35
+ON,Prostate Cancer Surgery,50th percentile,2019,40
+ON,Radiation Therapy,50th percentile,2019,9
+ON,Hip Replacement,50th percentile,2019,67
+ON,Hip Replacement,50th percentile,2019,127
+ON,Hip Replacement,50th percentile,2019,141
+ON,Hip Replacement,50th percentile,2019,108
+ON,Hip Replacement,50th percentile,2019,112
+ON,Hip Replacement,50th percentile,2019,78
+ON,Hip Replacement,50th percentile,2019,54
+ON,Hip Replacement,50th percentile,2019,55
+ON,Hip Replacement,50th percentile,2019,58
+ON,Hip Replacement,50th percentile,2019,63
+ON,Hip Replacement,50th percentile,2019,82
+ON,Hip Replacement,50th percentile,2019,101
+ON,Hip Replacement,50th percentile,2019,61
+ON,Hip Replacement,50th percentile,2019,72
+ON,Knee Replacement,50th percentile,2019,81
+ON,Knee Replacement,50th percentile,2019,150
+ON,Knee Replacement,50th percentile,2019,166
+ON,Knee Replacement,50th percentile,2019,118
+ON,Knee Replacement,50th percentile,2019,149
+ON,Knee Replacement,50th percentile,2019,98
+ON,Knee Replacement,50th percentile,2019,48
+ON,Knee Replacement,50th percentile,2019,69
+ON,Knee Replacement,50th percentile,2019,69
+ON,Knee Replacement,50th percentile,2019,68
+ON,Knee Replacement,50th percentile,2019,83
+ON,Knee Replacement,50th percentile,2019,118
+ON,Knee Replacement,50th percentile,2019,67
+ON,Knee Replacement,50th percentile,2019,127
+ON,Bladder Cancer Surgery,50th percentile,2020,20
+ON,Breast Cancer Surgery,50th percentile,2020,15
+ON,CABG,50th percentile,2020,4
+ON,Cataract Surgery,50th percentile,2020,152
+ON,Colorectal Cancer Surgery,50th percentile,2020,16
+ON,CT Scan,50th percentile,2020,3
+ON,Hip Fracture Repair,50th percentile,2020,1
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2020,1.25
+ON,Hip Replacement,50th percentile,2020,141
+ON,Knee Replacement,50th percentile,2020,163
+ON,Hip Replacement,50th percentile,2020,154
+ON,Hip Replacement,50th percentile,2020,204
+ON,Hip Replacement,50th percentile,2020,191
+ON,Hip Replacement,50th percentile,2020,168
+ON,Hip Replacement,50th percentile,2020,176
+ON,Hip Replacement,50th percentile,2020,169
+ON,Hip Replacement,50th percentile,2020,88
+ON,Hip Replacement,50th percentile,2020,102
+ON,Hip Replacement,50th percentile,2020,115
+ON,Hip Replacement,50th percentile,2020,125
+ON,Hip Replacement,50th percentile,2020,167
+ON,Hip Replacement,50th percentile,2020,157
+ON,Hip Replacement,50th percentile,2020,117
+ON,Hip Replacement,50th percentile,2020,104
+ON,Knee Replacement,50th percentile,2020,188
+ON,Knee Replacement,50th percentile,2020,243
+ON,Knee Replacement,50th percentile,2020,242
+ON,Knee Replacement,50th percentile,2020,190
+ON,Knee Replacement,50th percentile,2020,177
+ON,Knee Replacement,50th percentile,2020,203
+ON,Knee Replacement,50th percentile,2020,112
+ON,Knee Replacement,50th percentile,2020,125
+ON,Knee Replacement,50th percentile,2020,133
+ON,Knee Replacement,50th percentile,2020,147
+ON,Knee Replacement,50th percentile,2020,169
+ON,Knee Replacement,50th percentile,2020,181
+ON,Knee Replacement,50th percentile,2020,144
+ON,Knee Replacement,50th percentile,2020,126
+ON,Lung Cancer Surgery,50th percentile,2020,18
+ON,MRI Scan,50th percentile,2020,26
+ON,Prostate Cancer Surgery,50th percentile,2020,41
+ON,Radiation Therapy,50th percentile,2020,9
+ON,Hip Replacement,50th percentile,2021,104
+ON,Knee Replacement,50th percentile,2021,112
+ON,Radiation Therapy,50th percentile,2021,10
+ON,Hip Fracture Repair,50th percentile,2021,1.04
+ON,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2021,1.25
+ON,Cataract Surgery,50th percentile,2021,88
+ON,CABG,50th percentile,2021,6
+ON,MRI Scan,50th percentile,2021,29
+ON,CT Scan,50th percentile,2021,5
+ON,Breast Cancer Surgery,50th percentile,2021,16
+ON,Bladder Cancer Surgery,50th percentile,2021,22
+ON,Colorectal Cancer Surgery,50th percentile,2021,17
+ON,Lung Cancer Surgery,50th percentile,2021,20
+ON,Prostate Cancer Surgery,50th percentile,2021,41
+ON,Hip Replacement,50th percentile,2021,97
+ON,Hip Replacement,50th percentile,2021,176
+ON,Hip Replacement,50th percentile,2021,142
+ON,Hip Replacement,50th percentile,2021,95
+ON,Hip Replacement,50th percentile,2021,223
+ON,Hip Replacement,50th percentile,2021,98
+ON,Hip Replacement,50th percentile,2021,68
+ON,Hip Replacement,50th percentile,2021,109
+ON,Hip Replacement,50th percentile,2021,97
+ON,Hip Replacement,50th percentile,2021,78
+ON,Hip Replacement,50th percentile,2021,142
+ON,Hip Replacement,50th percentile,2021,160
+ON,Hip Replacement,50th percentile,2021,77
+ON,Hip Replacement,50th percentile,2021,86
+ON,Knee Replacement,50th percentile,2021,134
+ON,Knee Replacement,50th percentile,2021,225
+ON,Knee Replacement,50th percentile,2021,183
+ON,Knee Replacement,50th percentile,2021,115
+ON,Knee Replacement,50th percentile,2021,130
+ON,Knee Replacement,50th percentile,2021,104
+ON,Knee Replacement,50th percentile,2021,65
+ON,Knee Replacement,50th percentile,2021,107
+ON,Knee Replacement,50th percentile,2021,95
+ON,Knee Replacement,50th percentile,2021,93
+ON,Knee Replacement,50th percentile,2021,140
+ON,Knee Replacement,50th percentile,2021,168
+ON,Knee Replacement,50th percentile,2021,82
+ON,Knee Replacement,50th percentile,2021,83
+PEI,Hip Replacement,50th percentile,2008,110
+PEI,Knee Replacement,50th percentile,2008,108
+PEI,Radiation Therapy,50th percentile,2008,7
+PEI,Cataract Surgery,50th percentile,2008,78
+PEI,MRI Scan,50th percentile,2008,79
+PEI,CT Scan,50th percentile,2008,22
+PEI,Hip Replacement,50th percentile,2009,105
+PEI,Knee Replacement,50th percentile,2009,137
+PEI,Radiation Therapy,50th percentile,2009,9
+PEI,Cataract Surgery,50th percentile,2009,67
+PEI,MRI Scan,50th percentile,2009,111
+PEI,CT Scan,50th percentile,2009,7
+PEI,Hip Replacement,50th percentile,2010,62
+PEI,Knee Replacement,50th percentile,2010,127
+PEI,Radiation Therapy,50th percentile,2010,14
+PEI,Hip Fracture Repair,50th percentile,2010,1.08
+PEI,Cataract Surgery,50th percentile,2010,64
+PEI,MRI Scan,50th percentile,2010,77
+PEI,CT Scan,50th percentile,2010,12
+PEI,Hip Replacement,50th percentile,2011,112
+PEI,Knee Replacement,50th percentile,2011,171
+PEI,Radiation Therapy,50th percentile,2011,13
+PEI,Hip Fracture Repair,50th percentile,2011,0.96
+PEI,Cataract Surgery,50th percentile,2011,86
+PEI,MRI Scan,50th percentile,2011,32
+PEI,CT Scan,50th percentile,2011,8
+PEI,Hip Replacement,50th percentile,2012,173
+PEI,Knee Replacement,50th percentile,2012,225
+PEI,Radiation Therapy,50th percentile,2012,12
+PEI,Hip Fracture Repair,50th percentile,2012,0.88
+PEI,Cataract Surgery,50th percentile,2012,70
+PEI,MRI Scan,50th percentile,2012,41
+PEI,CT Scan,50th percentile,2012,15
+PEI,Hip Replacement,50th percentile,2013,121
+PEI,Knee Replacement,50th percentile,2013,148
+PEI,Radiation Therapy,50th percentile,2013,15
+PEI,Hip Fracture Repair,50th percentile,2013,1.29
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2013,0.96
+PEI,Cataract Surgery,50th percentile,2013,98
+PEI,MRI Scan,50th percentile,2013,58
+PEI,CT Scan,50th percentile,2013,23
+PEI,Breast Cancer Surgery,50th percentile,2013,18
+PEI,Bladder Cancer Surgery,50th percentile,2013,24
+PEI,Colorectal Cancer Surgery,50th percentile,2013,20
+PEI,Prostate Cancer Surgery,50th percentile,2013,54
+PEI,Hip Replacement,50th percentile,2014,56
+PEI,Knee Replacement,50th percentile,2014,126
+PEI,Radiation Therapy,50th percentile,2014,14
+PEI,Hip Fracture Repair,50th percentile,2014,1.71
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2014,1.17
+PEI,Cataract Surgery,50th percentile,2014,118
+PEI,MRI Scan,50th percentile,2014,71
+PEI,CT Scan,50th percentile,2014,23
+PEI,Breast Cancer Surgery,50th percentile,2014,22
+PEI,Bladder Cancer Surgery,50th percentile,2014,26
+PEI,Colorectal Cancer Surgery,50th percentile,2014,28
+PEI,Prostate Cancer Surgery,50th percentile,2014,27
+PEI,Hip Replacement,50th percentile,2014,56
+PEI,Knee Replacement,50th percentile,2014,126
+PEI,Hip Replacement,50th percentile,2015,92
+PEI,Knee Replacement,50th percentile,2015,112
+PEI,Radiation Therapy,50th percentile,2015,12
+PEI,Hip Fracture Repair,50th percentile,2015,1
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2015,1.29
+PEI,Cataract Surgery,50th percentile,2015,57
+PEI,MRI Scan,50th percentile,2015,56
+PEI,CT Scan,50th percentile,2015,30
+PEI,Breast Cancer Surgery,50th percentile,2015,18
+PEI,Bladder Cancer Surgery,50th percentile,2015,37
+PEI,Colorectal Cancer Surgery,50th percentile,2015,22
+PEI,Hip Replacement,50th percentile,2015,92
+PEI,Knee Replacement,50th percentile,2015,112
+PEI,Hip Replacement,50th percentile,2016,133
+PEI,Knee Replacement,50th percentile,2016,146
+PEI,Radiation Therapy,50th percentile,2016,12
+PEI,Hip Fracture Repair,50th percentile,2016,1
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2016,1.04
+PEI,Cataract Surgery,50th percentile,2016,71
+PEI,MRI Scan,50th percentile,2016,52
+PEI,CT Scan,50th percentile,2016,34
+PEI,Breast Cancer Surgery,50th percentile,2016,16
+PEI,Bladder Cancer Surgery,50th percentile,2016,24
+PEI,Colorectal Cancer Surgery,50th percentile,2016,17
+PEI,Hip Replacement,50th percentile,2016,133
+PEI,Knee Replacement,50th percentile,2016,146
+PEI,Hip Replacement,50th percentile,2017,182
+PEI,Knee Replacement,50th percentile,2017,195
+PEI,Radiation Therapy,50th percentile,2017,13
+PEI,Hip Fracture Repair,50th percentile,2017,1
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2017,0.92
+PEI,Cataract Surgery,50th percentile,2017,99
+PEI,MRI Scan,50th percentile,2017,80
+PEI,CT Scan,50th percentile,2017,44
+PEI,Breast Cancer Surgery,50th percentile,2017,15
+PEI,Bladder Cancer Surgery,50th percentile,2017,31
+PEI,Colorectal Cancer Surgery,50th percentile,2017,14
+PEI,Hip Replacement,50th percentile,2017,182
+PEI,Knee Replacement,50th percentile,2017,195
+PEI,Hip Replacement,50th percentile,2018,190
+PEI,Knee Replacement,50th percentile,2018,242
+PEI,Radiation Therapy,50th percentile,2018,8
+PEI,Hip Fracture Repair,50th percentile,2018,0.88
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2018,1.04
+PEI,Cataract Surgery,50th percentile,2018,118
+PEI,MRI Scan,50th percentile,2018,40
+PEI,CT Scan,50th percentile,2018,18
+PEI,Breast Cancer Surgery,50th percentile,2018,16
+PEI,Bladder Cancer Surgery,50th percentile,2018,28
+PEI,Colorectal Cancer Surgery,50th percentile,2018,16
+PEI,Hip Replacement,50th percentile,2018,190
+PEI,Knee Replacement,50th percentile,2018,242
+PEI,Bladder Cancer Surgery,50th percentile,2019,34
+PEI,Breast Cancer Surgery,50th percentile,2019,15
+PEI,Cataract Surgery,50th percentile,2019,167
+PEI,Colorectal Cancer Surgery,50th percentile,2019,20
+PEI,CT Scan,50th percentile,2019,27
+PEI,Hip Fracture Repair,50th percentile,2019,0.67
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2019,0.67
+PEI,Hip Replacement,50th percentile,2019,138
+PEI,Knee Replacement,50th percentile,2019,246
+PEI,MRI Scan,50th percentile,2019,45
+PEI,Radiation Therapy,50th percentile,2019,10
+PEI,Hip Replacement,50th percentile,2019,138
+PEI,Knee Replacement,50th percentile,2019,246
+PEI,Bladder Cancer Surgery,50th percentile,2020,19
+PEI,Breast Cancer Surgery,50th percentile,2020,11
+PEI,Cataract Surgery,50th percentile,2020,230
+PEI,Colorectal Cancer Surgery,50th percentile,2020,14
+PEI,CT Scan,50th percentile,2020,15
+PEI,Hip Fracture Repair,50th percentile,2020,0.5
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2020,0.42
+PEI,Hip Replacement,50th percentile,2020,156
+PEI,Knee Replacement,50th percentile,2020,315
+PEI,Hip Replacement,50th percentile,2020,156
+PEI,Knee Replacement,50th percentile,2020,315
+PEI,MRI Scan,50th percentile,2020,35
+PEI,Radiation Therapy,50th percentile,2020,12
+PEI,Hip Replacement,50th percentile,2021,162
+PEI,Knee Replacement,50th percentile,2021,204
+PEI,Radiation Therapy,50th percentile,2021,12
+PEI,Hip Fracture Repair,50th percentile,2021,0.71
+PEI,Hip Fracture Repair/Emergency and Inpatient,50th percentile,2021,0.75
+PEI,Cataract Surgery,50th percentile,2021,162
+PEI,MRI Scan,50th percentile,2021,34
+PEI,CT Scan,50th percentile,2021,27
+PEI,Breast Cancer Surgery,50th percentile,2021,20
+PEI,Bladder Cancer Surgery,50th percentile,2021,19
+PEI,Colorectal Cancer Surgery,50th percentile,2021,21
+PEI,Hip Replacement,50th percentile,2021,162
+PEI,Knee Replacement,50th percentile,2021,204
+SK,Hip Replacement,50th percentile,2008,157
+SK,Knee Replacement,50th percentile,2008,246
+SK,Radiation Therapy,50th percentile,2008,14
+SK,Cataract Surgery,50th percentile,2008,118
+SK,CABG,50th percentile,2008,4
+SK,Hip Replacement,50th percentile,2009,131
+SK,Knee Replacement,50th percentile,2009,194
+SK,Radiation Therapy,50th percentile,2009,8
+SK,Hip Fracture Repair,50th percentile,2009,1.08
+SK,Cataract Surgery,50th percentile,2009,95
+SK,CABG,50th percentile,2009,5
+SK,Hip Replacement,50th percentile,2010,110
+SK,Knee Replacement,50th percentile,2010,135
+SK,Radiation Therapy,50th percentile,2010,6
+SK,Hip Fracture Repair,50th percentile,2010,1.38
+SK,Cataract Surgery,50th percentile,2010,81
+SK,MRI Scan,50th percentile,2010,31
+SK,CT Scan,50th percentile,2010,22
+SK,CABG,50th percentile,2010,4
+SK,Hip Replacement,50th percentile,2011,102
+SK,Knee Replacement,50th percentile,2011,139
+SK,Radiation Therapy,50th percentile,2011,6
+SK,Hip Fracture Repair,50th percentile,2011,0.92
+SK,Cataract Surgery,50th percentile,2011,90
+SK,CABG,50th percentile,2011,3
+SK,MRI Scan,50th percentile,2011,48
+SK,CT Scan,50th percentile,2011,10
+SK,Hip Replacement,50th percentile,2012,120
+SK,Knee Replacement,50th percentile,2012,165
+SK,Radiation Therapy,50th percentile,2012,4
+SK,Hip Fracture Repair,50th percentile,2012,1
+SK,Cataract Surgery,50th percentile,2012,96
+SK,CABG,50th percentile,2012,4
+SK,Hip Replacement,50th percentile,2013,99
+SK,Knee Replacement,50th percentile,2013,128
+SK,Radiation Therapy,50th percentile,2013,5
+SK,Hip Fracture Repair,50th percentile,2013,1
+SK,Cataract Surgery,50th percentile,2013,67
+SK,CABG,50th percentile,2013,3
+SK,MRI Scan,50th percentile,2013,28
+SK,CT Scan,50th percentile,2013,13
+SK,Breast Cancer Surgery,50th percentile,2013,17
+SK,Bladder Cancer Surgery,50th percentile,2013,16
+SK,Colorectal Cancer Surgery,50th percentile,2013,14
+SK,Lung Cancer Surgery,50th percentile,2013,7
+SK,Prostate Cancer Surgery,50th percentile,2013,51
+SK,Hip Replacement,50th percentile,2014,63
+SK,Knee Replacement,50th percentile,2014,70
+SK,Radiation Therapy,50th percentile,2014,7
+SK,Hip Fracture Repair,50th percentile,2014,1
+SK,Cataract Surgery,50th percentile,2014,40
+SK,CABG,50th percentile,2014,3
+SK,Breast Cancer Surgery,50th percentile,2014,14
+SK,Bladder Cancer Surgery,50th percentile,2014,15
+SK,Colorectal Cancer Surgery,50th percentile,2014,15
+SK,Lung Cancer Surgery,50th percentile,2014,14
+SK,Prostate Cancer Surgery,50th percentile,2014,43
+SK,Hip Replacement,50th percentile,2014,28
+SK,Hip Replacement,50th percentile,2014,76
+SK,Hip Replacement,50th percentile,2014,61
+SK,Hip Replacement,50th percentile,2014,58
+SK,Hip Replacement,50th percentile,2014,38
+SK,Knee Replacement,50th percentile,2014,35
+SK,Knee Replacement,50th percentile,2014,111
+SK,Knee Replacement,50th percentile,2014,53
+SK,Knee Replacement,50th percentile,2014,63
+SK,Knee Replacement,50th percentile,2014,52
+SK,Hip Replacement,50th percentile,2015,53
+SK,Knee Replacement,50th percentile,2015,62
+SK,Radiation Therapy,50th percentile,2015,8
+SK,Hip Fracture Repair,50th percentile,2015,1.04
+SK,Cataract Surgery,50th percentile,2015,35
+SK,CABG,50th percentile,2015,4
+SK,MRI Scan,50th percentile,2015,31
+SK,CT Scan,50th percentile,2015,21
+SK,Breast Cancer Surgery,50th percentile,2015,18
+SK,Bladder Cancer Surgery,50th percentile,2015,16
+SK,Colorectal Cancer Surgery,50th percentile,2015,16
+SK,Lung Cancer Surgery,50th percentile,2015,15
+SK,Prostate Cancer Surgery,50th percentile,2015,48
+SK,Hip Replacement,50th percentile,2015,48
+SK,Hip Replacement,50th percentile,2015,57
+SK,Hip Replacement,50th percentile,2015,63
+SK,Hip Replacement,50th percentile,2015,59
+SK,Knee Replacement,50th percentile,2015,13
+SK,Knee Replacement,50th percentile,2015,55
+SK,Knee Replacement,50th percentile,2015,72
+SK,Knee Replacement,50th percentile,2015,58
+SK,Knee Replacement,50th percentile,2015,59
+SK,Hip Replacement,50th percentile,2016,84
+SK,Knee Replacement,50th percentile,2016,109
+SK,Radiation Therapy,50th percentile,2016,7
+SK,Hip Fracture Repair,50th percentile,2016,1.25
+SK,Cataract Surgery,50th percentile,2016,60
+SK,CABG,50th percentile,2016,3
+SK,MRI Scan,50th percentile,2016,47
+SK,CT Scan,50th percentile,2016,19
+SK,Breast Cancer Surgery,50th percentile,2016,19
+SK,Bladder Cancer Surgery,50th percentile,2016,15
+SK,Colorectal Cancer Surgery,50th percentile,2016,19
+SK,Lung Cancer Surgery,50th percentile,2016,13
+SK,Prostate Cancer Surgery,50th percentile,2016,47
+SK,Hip Replacement,50th percentile,2016,60
+SK,Hip Replacement,50th percentile,2016,97
+SK,Hip Replacement,50th percentile,2016,94
+SK,Hip Replacement,50th percentile,2016,56
+SK,Hip Replacement,50th percentile,2016,47
+SK,Knee Replacement,50th percentile,2016,64
+SK,Knee Replacement,50th percentile,2016,154
+SK,Knee Replacement,50th percentile,2016,118
+SK,Knee Replacement,50th percentile,2016,58
+SK,Knee Replacement,50th percentile,2016,42
+SK,Hip Replacement,50th percentile,2017,98
+SK,Knee Replacement,50th percentile,2017,142
+SK,Radiation Therapy,50th percentile,2017,7
+SK,Hip Fracture Repair,50th percentile,2017,1.12
+SK,Cataract Surgery,50th percentile,2017,59
+SK,CABG,50th percentile,2017,3
+SK,MRI Scan,50th percentile,2017,33
+SK,CT Scan,50th percentile,2017,17
+SK,Breast Cancer Surgery,50th percentile,2017,21
+SK,Bladder Cancer Surgery,50th percentile,2017,18
+SK,Colorectal Cancer Surgery,50th percentile,2017,19
+SK,Lung Cancer Surgery,50th percentile,2017,16
+SK,Prostate Cancer Surgery,50th percentile,2017,50
+SK,Hip Replacement,50th percentile,2017,67
+SK,Hip Replacement,50th percentile,2017,102
+SK,Hip Replacement,50th percentile,2017,114
+SK,Hip Replacement,50th percentile,2017,43
+SK,Hip Replacement,50th percentile,2017,194
+SK,Knee Replacement,50th percentile,2017,73
+SK,Knee Replacement,50th percentile,2017,147
+SK,Knee Replacement,50th percentile,2017,152
+SK,Knee Replacement,50th percentile,2017,65
+SK,Knee Replacement,50th percentile,2017,210
+SK,Hip Replacement,50th percentile,2018,117
+SK,Knee Replacement,50th percentile,2018,168
+SK,Radiation Therapy,50th percentile,2018,7
+SK,Hip Fracture Repair,50th percentile,2018,1.38
+SK,Cataract Surgery,50th percentile,2018,81
+SK,CABG,50th percentile,2018,3
+SK,MRI Scan,50th percentile,2018,32
+SK,CT Scan,50th percentile,2018,19
+SK,Breast Cancer Surgery,50th percentile,2018,16
+SK,Bladder Cancer Surgery,50th percentile,2018,16
+SK,Colorectal Cancer Surgery,50th percentile,2018,16
+SK,Lung Cancer Surgery,50th percentile,2018,13
+SK,Prostate Cancer Surgery,50th percentile,2018,42
+SK,Hip Replacement,50th percentile,2018,141
+SK,Hip Replacement,50th percentile,2018,99
+SK,Hip Replacement,50th percentile,2018,97
+SK,Hip Replacement,50th percentile,2018,238
+SK,Knee Replacement,50th percentile,2018,40
+SK,Knee Replacement,50th percentile,2018,167
+SK,Knee Replacement,50th percentile,2018,191
+SK,Knee Replacement,50th percentile,2018,130
+SK,Knee Replacement,50th percentile,2018,335
+SK,Bladder Cancer Surgery,50th percentile,2019,16
+SK,Breast Cancer Surgery,50th percentile,2019,19
+SK,CABG,50th percentile,2019,4
+SK,Cataract Surgery,50th percentile,2019,85
+SK,Colorectal Cancer Surgery,50th percentile,2019,16
+SK,CT Scan,50th percentile,2019,25
+SK,Hip Fracture Repair,50th percentile,2019,1.12
+SK,Hip Replacement,50th percentile,2019,194
+SK,Knee Replacement,50th percentile,2019,255
+SK,Lung Cancer Surgery,50th percentile,2019,14
+SK,MRI Scan,50th percentile,2019,46
+SK,Prostate Cancer Surgery,50th percentile,2019,43
+SK,Radiation Therapy,50th percentile,2019,8
+SK,Hip Replacement,50th percentile,2019,28
+SK,Hip Replacement,50th percentile,2019,239
+SK,Hip Replacement,50th percentile,2019,210
+SK,Hip Replacement,50th percentile,2019,103
+SK,Hip Replacement,50th percentile,2019,341
+SK,Knee Replacement,50th percentile,2019,54
+SK,Knee Replacement,50th percentile,2019,267
+SK,Knee Replacement,50th percentile,2019,290
+SK,Knee Replacement,50th percentile,2019,128
+SK,Knee Replacement,50th percentile,2019,397
+SK,Bladder Cancer Surgery,50th percentile,2020,15
+SK,Breast Cancer Surgery,50th percentile,2020,12
+SK,CABG,50th percentile,2020,4
+SK,Cataract Surgery,50th percentile,2020,142
+SK,Colorectal Cancer Surgery,50th percentile,2020,15
+SK,CT Scan,50th percentile,2020,20
+SK,Hip Fracture Repair,50th percentile,2020,1.12
+SK,Hip Replacement,50th percentile,2020,236
+SK,Knee Replacement,50th percentile,2020,302
+SK,Lung Cancer Surgery,50th percentile,2020,15
+SK,MRI Scan,50th percentile,2020,30
+SK,Prostate Cancer Surgery,50th percentile,2020,41
+SK,Radiation Therapy,50th percentile,2020,7
+SK,Hip Replacement,50th percentile,2020,104
+SK,Hip Replacement,50th percentile,2020,320
+SK,Hip Replacement,50th percentile,2020,207
+SK,Hip Replacement,50th percentile,2020,147
+SK,Hip Replacement,50th percentile,2020,271
+SK,Knee Replacement,50th percentile,2020,109
+SK,Knee Replacement,50th percentile,2020,364
+SK,Knee Replacement,50th percentile,2020,312
+SK,Knee Replacement,50th percentile,2020,181
+SK,Knee Replacement,50th percentile,2020,295
+SK,Hip Replacement,50th percentile,2021,234
+SK,Knee Replacement,50th percentile,2021,416
+SK,Radiation Therapy,50th percentile,2021,7
+SK,Hip Fracture Repair,50th percentile,2021,1.17
+SK,Cataract Surgery,50th percentile,2021,84
+SK,CABG,50th percentile,2021,6
+SK,MRI Scan,50th percentile,2021,30
+SK,CT Scan,50th percentile,2021,26
+SK,Breast Cancer Surgery,50th percentile,2021,19
+SK,Bladder Cancer Surgery,50th percentile,2021,16
+SK,Colorectal Cancer Surgery,50th percentile,2021,20
+SK,Lung Cancer Surgery,50th percentile,2021,18
+SK,Prostate Cancer Surgery,50th percentile,2021,44
+SK,Hip Replacement,50th percentile,2021,119
+SK,Hip Replacement,50th percentile,2021,303
+SK,Hip Replacement,50th percentile,2021,255
+SK,Hip Replacement,50th percentile,2021,49
+SK,Hip Replacement,50th percentile,2021,158
+SK,Knee Replacement,50th percentile,2021,253
+SK,Knee Replacement,50th percentile,2021,531
+SK,Knee Replacement,50th percentile,2021,481
+SK,Knee Replacement,50th percentile,2021,57
+SK,Knee Replacement,50th percentile,2021,149
