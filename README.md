@@ -24,12 +24,11 @@ In this readme file, I will take you through my process of data cleaning, analys
 ## Data Cleaning
 
 Firstly, I converted the [CIHI dataset](https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-data-tables-en.xlsx) to a CSV file. I only added the last sheet of the Excel dataset to my CSV file.
+GOAL METRIC: Column "Indicator Result" (called "Result" in cleaned CSV)
 
-
-Everything I deleted or changed:
-- GOAL METRIC: Column "Indicator Result"
-- Columns "Region", "Reporting Level", and "Unit of Measurement" (I did this one later on)
-- Rows containing "Canada"
+Everything I Cleaned:
+- Deleted columns "Region", "Reporting Level", and "Unit of Measurement" (I did this one later on)
+- Deleted rows containing "Canada"
 - Only rows I did not delete from the Metric column was the "50th percentile" (50th percentile wait time)
 - Changed all Provinces to their abbreviation (ex. AB instead of Alberta)
 - Deleted all rows with proportion as a "Unit of Measurement"
@@ -41,8 +40,6 @@ Everything I deleted or changed:
 - Changed Column Title "Indicator Result" to "Result"
 
 Cleaned CSV file HERE
-
-
 
 I also (manually - because it was easy) deleted the columns that I didn't want. These were "Region" & "Reporting Level"
 
