@@ -51,13 +51,16 @@ import numpy as np
 
 # I then read the CSV using pandas, and got a header of the file
 
-df = pd.read_csv("patient_wait_times.csv")
+df = pd.read_csv("unclean_data.csv")
 df.head(5)
 ```
 The file did not look pretty at this point, so I dropped all N/A values.
 ```
 df = df.dropna()
 ```
+I set a new variable for each item I wanted to remove. Each variable built off the subsequent variable. I could have made this a much smaller block of code, but for readability, it is layed out like so. Then, using the "~", I took the inverse and only saved items that DID NOT contain what I specified. I used the lambda command to find the specific usage of the word, and then eliminated it with the str.contains function. Axis=1 was used to represent the row that I deleted. 
+
+Then I saved my changes from the last variable to a new file called unclean_data2.csv
 ```
 # Dropping any rows listed Canada, Q, Proportion, Number of Cases, FY
 
@@ -69,8 +72,10 @@ new_df6 = new_df5[~new_df2.apply(lambda row: row.astype(str).str.contains("FY").
 
 # Then I saved to a new file
 
-new_df6.to_csv("Herewego2.csv")
+new_df6.to_csv("unclean_data2.csv")
 ```
+
+
 
 
 
