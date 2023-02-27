@@ -90,10 +90,46 @@ df.loc[data.index.str.contains('Hours'), 'Indicator Result'] /= 24
 
 data.loc[:, 'provinces'] = data['provinces'].replace('Alberta', 'AB')
 ```
+Then finally, I deleted rows later than 2019, and renamed columns as "Result" (TARGET VARIABLE - which is wait time in days), Indicator, Province, and Year. 
 
+Once done all this, I saved the file to the final copy of the cleaned CSV titled: **patient_wait_times.csv**
 
 ---
 ## Data Visualization 
+
+```
+df = pd.read_csv("patient_wait_times.csv")
+
+avg_wait_time = df.groupby('Province')['Result'].mean()
+
+# Print wait time based on Province
+print(avg_wait_time)
+
+# RESULT (WAIT TIME IN DAYS)
+
+Province
+AB      74.457611
+BC      83.642558
+MB     105.602222
+NB      79.919872
+NL      65.843298
+NS     110.810046
+ON      70.604351
+PEI     69.459600
+SK      81.135310
+```
+It appears that on average, Prince Edward Island has the shortest wait times and Nova Scotia has the longest wait times. Let's visualize the data to get a better understanding.
+
+For this next part, I use Seaborn which is based off MatPlotLib. Seaborn has some fantastic tools. I recently started using violin plots more, and I believe they give a fantastic estimate of 
+```
+sb.set(rc={'figure.figsize':(25,10)})
+
+violin_plot = sb.violinplot(y="Result",x="Province",data=df)
+violin_plot.set_xlabel('Indicator', fontsize=40, fontfamily = 'Times New Roman')
+violin_plot.set_ylabel('Result (Days)', fontsize=40, fontfamily = 'Times New Roman')
+violin_plot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
+```
+
 ---
 ## Random Forest Regressor
 ---
