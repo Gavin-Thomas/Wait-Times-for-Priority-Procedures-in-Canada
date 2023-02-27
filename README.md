@@ -75,8 +75,10 @@ new_df6 = new_df5[~new_df2.apply(lambda row: row.astype(str).str.contains("FY").
 # Then I saved to a new file
 
 new_df6.to_csv("unclean_data2.csv")
+
+# Note: I also did this with "90th percentile", and "Volume" (not shown).
 ```
-Next up, I reloaded the new CSV file and in any row that contained the word "Hours", I modified the neighboring value under the column "Indicator Result" to show hours instead of days by dividing by 24. I used the ".loc" function to identify the position of hours, and then used "/=" to divide the number of hours by 24 to get days.
+Next, I reloaded the new CSV file and in any row that contained the word "Hours", I modified the neighboring value under the column "Indicator Result" to show hours instead of days by dividing by 24. I used the ".loc" function to identify the position of hours, and then used "/=" to divide the number of hours by 24 to get days.
 
 ```
 # Changing hours to Days using loc function and index function
