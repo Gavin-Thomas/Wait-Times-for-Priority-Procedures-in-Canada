@@ -39,7 +39,7 @@ Everything I Cleaned:
 - Changed Column Title "Data year" to "Year
 - Changed Column Title "Indicator Result" to "Result"
 
-Cleaned CSV file HERE
+Cleaned CSV file [HERE](/Wait-Times-for-Priority-Procedures-in-Canada/cleaned-patient_wait_times.csv)
 
 I also (manually - because it was easy) deleted the columns that I didn't want. These were "Region" & "Reporting Level"
 
