@@ -25,12 +25,28 @@ In this readme file, I will take you through my process of data cleaning, analys
 
 Firstly, I converted the [CIHI dataset](https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-data-tables-en.xlsx) to a CSV file. I only added the last sheet of the Excel dataset to my CSV file.
 
+
+Everything I deleted or changed:
+- Columns "Region", "Reporting Level", and "Unit of Measurement" (I did this one later on)
+- Rows containing "Canada", 
+- Changed all Provinces to their abbreviation (ex. AB instead of Alberta)
+
+
+
+I also (manually - because it was easy) deleted the columns that I didn't want. These were "Region" & "Reporting Level"
+
 I used pandas and numpy for data cleaning.
 ```
 import pandas as pd
 import numpy as np
-```
 
+# I then read the CSV using pandas, and got a header of the file
+
+df = pd.read_csv("patient_wait_times.csv")
+df.head(5)
+```
+The file did not look pretty at this point, so I dropped all N/A values.
+```
 
 
 
