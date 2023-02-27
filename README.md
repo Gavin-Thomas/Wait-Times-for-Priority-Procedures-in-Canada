@@ -27,15 +27,27 @@ Firstly, I converted the [CIHI dataset](https://www.cihi.ca/sites/default/files/
 
 
 Everything I deleted or changed:
+- GOAL METRIC: Column "Indicator Result"
 - Columns "Region", "Reporting Level", and "Unit of Measurement" (I did this one later on)
-- Rows containing "Canada", 
+- Rows containing "Canada"
+- Only rows I did not delete from the Metric column was the "50th percentile" (50th percentile wait time)
 - Changed all Provinces to their abbreviation (ex. AB instead of Alberta)
+- Deleted all rows with proportion as a "Unit of Measurement"
+- Deleted all Data years past 2019 (to not include COVID lockdown)
+- Deleted all Data years with letters (ie. 2019FY)
+- Changed All "Indicator Results" Column "Hours" to "Days" by dividing by 24.
+- Changed Column Title "Province/Territory" to Province
+- Changed Column Title "Data year" to "Year
+- Changed Column Title "Indicator Result" to "Result"
+
+Cleaned CSV file HERE
 
 
 
 I also (manually - because it was easy) deleted the columns that I didn't want. These were "Region" & "Reporting Level"
 
 I used pandas and numpy for data cleaning.
+
 ```
 import pandas as pd
 import numpy as np
