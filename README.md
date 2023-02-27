@@ -1,4 +1,4 @@
-# <p align="center">Canadian Healthcare Analysis: Wait Times for Priority Procedures</p>
+# <p align="center">(DRAFT)Canadian Healthcare Analysis: Wait Times for Priority Procedures</p>
 ### <p align="center">By Gavin Thomas</p>
 _____
 
@@ -130,8 +130,6 @@ violin_plot.set_ylabel('Result (Days)', fontsize=40, fontfamily = 'Times New Rom
 violin_plot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
 ```
 ![Violin_Province](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Violin_Province.png?raw=true)
-
-# (DRAFT - NOT YET DONE)
 
 ---
 ## Random Forest Regressor
