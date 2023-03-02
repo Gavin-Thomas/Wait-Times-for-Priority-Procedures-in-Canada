@@ -138,6 +138,14 @@ _Figure 1_. Violin plot of wait time in days for each Canadian province (excludi
 
 EXPLANATION OF FIGURE 1 HERE
 
+Next up is the barplot...
+```
+barplot = sb.barplot(data=df, x="Province", y="Result")
+barplot.set_xlabel('Province', fontsize=50, fontfamily = 'Times New Roman')
+barplot.set_ylabel('Result (Days)', fontsize=50, fontfamily = 'Times New Roman')
+barplot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
+```
+
 ![BarPlot-Provice](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/BarGraph.png?raw=true)
 _Figure 2_. Bar plot of wait time in days for each Canadian province (excluding territories) for priority procedures. SEM bars included.
 
