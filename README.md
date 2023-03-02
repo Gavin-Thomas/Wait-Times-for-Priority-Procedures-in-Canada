@@ -193,11 +193,11 @@ y_pred = np.reshape(y_pred, (len(y_pred), 1))
 # Evaluate the model's performance
 mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
-print("Root mean squared error:", rmse)
+print("Root mean squared error:", rmse.round(2)
 ```
 
 ### Model Error
-**Root mean squared error: 39.75361697840622**
+**Root mean squared error: 39.75**
 
 After playing around with the n_estimators that would give me the lowest Mean Squared Error, it appears that 91 n_estimators with a random state of 38 gives me the lowest Mean Squared Error with this random forest model.
 
