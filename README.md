@@ -130,6 +130,9 @@ violin_plot.set_ylabel('Result (Days)', fontsize=40, fontfamily = 'Times New Rom
 violin_plot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
 ```
 ![Violin_Province](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Violin_Province.png?raw=true)
+_Figure 1_. Violin plot of wait time in days for each Canadian province (excluding territories) for priority procedures. 
+
+EXPLANATION OF FIGURE 1 HERE
 
 ---
 ## Random Forest Regressor
