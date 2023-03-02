@@ -6,6 +6,10 @@ _____
 
 Dataset [HERE](https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-data-tables-en.xlsx)
 
+SKILLS DEMONSTRATED:
+- Data cleaning with Pandas
+- Data visualization with Seaborn and Matplotlib
+- Machine learning with Scikit-Learn
 _____
 
 ## Intro
