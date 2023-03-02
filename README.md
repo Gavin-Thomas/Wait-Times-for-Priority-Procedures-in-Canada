@@ -8,7 +8,7 @@ _____
 
 Dataset [HERE](https://www.cihi.ca/sites/default/files/document/wait-times-priority-procedures-in-canada-data-tables-en.xlsx)
 
-SKILLS DEMONSTRATED:
+SKILLS I DEMONSTRATE:
 - Data cleaning with Pandas
 - Data visualization with Seaborn and Matplotlib
 - Machine learning with Scikit-Learn
@@ -167,20 +167,21 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 import numpy as np
 
-# Load the data
+# First, I load the data
 df = pd.read_csv("cleaned-patient_wait_times.csv")
 
-# Convert the "Days" column to numeric
+# Next, I onverted the "Days" column to numeric so I didn't get any errors
 df['Result'] = pd.to_numeric(df['Result'], errors='coerce')
 
-# Encode categorical variables
+# Then I encoded categorical variables using dummy variables
 df = pd.get_dummies(df, columns=["Province", "Indicator", "Metric", "Year"])
 
-# Split the data into training and testing sets
+# Then I Split the data into training and testing sets.
+# I used a 80/20 split (80% training, 20% testing)
+
 X = df.drop(["Result"], axis=1) # drop the target variable
 y = df["Result"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
 
 # Create a random forest regressor and fit it to the training data
 rf = RandomForestRegressor(n_estimators=91, random_state=38)
@@ -200,6 +201,9 @@ print("Root mean squared error:", rmse.round(2)
 
 ### Model Error
 **Root mean squared error: 39.75**
+
+### What does this mean?
+EXPLANATION HERE
 
 After playing around with the n_estimators that would give me the lowest Mean Squared Error, it appears that 91 n_estimators with a random state of 38 gives me the lowest Mean Squared Error with this random forest model.
 
