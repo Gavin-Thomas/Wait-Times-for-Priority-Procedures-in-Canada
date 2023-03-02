@@ -124,7 +124,7 @@ SK      81.135310
 ```
 It appears that on average, Prince Edward Island has the shortest wait times and Nova Scotia has the longest wait times. Let's visualize the data to get a better understanding.
 
-For this next part, I use Seaborn which is based off MatPlotLib. Seaborn has some fantastic tools. I recently started using violin plots more, and I believe they give a fantastic estimate of 
+For this next part, I use Seaborn.
 ```
 sb.set(rc={'figure.figsize':(25,10)})
 
