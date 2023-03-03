@@ -172,6 +172,29 @@ plt.ylabel("Result", fontname="Times New Roman", fontsize=20)
 ![Year-Wait-Time](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Yearly-WaitTime-Trends.png?raw=true)
 _Figure 3_. Yearly wait time trends for priority procedures in Canada from the year 2008 to 2021.
 
+### Wait Times Based on Indicator (Procedure)
+
+**MEAN WAIT TIMES BELOW**
+
+**Indicator**
+Bladder Cancer Surgery                          24.6
+Breast Cancer Surgery                           17.8
+CABG                                             8.5
+CT Scan                                         17.8
+Cataract Surgery                                84.4
+Colorectal Cancer Surgery                       19.2
+Hip Fracture Repair                              1.0
+Hip Fracture Repair/Emergency and Inpatient      1.1
+Hip Replacement                                126.6
+Knee Replacement                               157.7
+Lung Cancer Surgery                             24.0
+MRI Scan                                        53.6
+Prostate Cancer Surgery                         40.9
+Radiation Therapy                                9.5
+Name: Result, dtype: float64
+
+
+
 ---
 ## Random Forest Regressor
 
