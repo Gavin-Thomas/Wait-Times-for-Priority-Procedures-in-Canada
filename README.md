@@ -125,7 +125,7 @@ ON      70.604351
 PEI     69.459600
 SK      81.135310
 ```
-It appears that on average, Prince Edward Island has the shortest wait times and Nova Scotia has the longest wait times. Let's visualize the data to get a better understanding.
+It appears that on average, NL has the shortest wait times and Nova Scotia has the longest wait times. Let's visualize the data to get a better understanding.
 
 For this next part, I use Seaborn.
 ```
