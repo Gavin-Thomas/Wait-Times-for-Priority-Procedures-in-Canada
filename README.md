@@ -103,6 +103,7 @@ Once done all this, I saved the file to the final copy of the cleaned CSV titled
 ---
 ## Data Visualization 
 
+### Provincial Wait Times
 ```
 df = pd.read_csv("patient_wait_times.csv")
 
@@ -152,6 +153,24 @@ barplot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6,
 _Figure 2_. Bar plot of wait time in days for each Canadian province (excluding territories) for priority procedures. SEM bars included.
 
 EXPLANATION OF FIGURE 2 HERE
+
+### Wait Times Based on Year
+Note:
+- Yearly wait time trends based off data from 2008 - 2021
+
+```
+import matplotlib.pyplot as plt
+
+sb.set(rc={'figure.figsize':(40, 16)})
+plot = sb.catplot(x="Year", y="Result", data=df, jitter=False)
+
+plot.fig.subplots_adjust(left=-0.5)
+plt.xlabel("Year", fontname="Times New Roman", fontsize=20)
+plt.ylabel("Result", fontname="Times New Roman", fontsize=20)
+```
+
+![Year-Wait-Time](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Yearly-WaitTime-Trends.png?raw=true)
+_Figure 3_. Yearly wait time trends for priority procedures in Canada from the year 2008 to 2021.
 
 ---
 ## Random Forest Regressor
