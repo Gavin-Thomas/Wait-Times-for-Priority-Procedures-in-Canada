@@ -24,7 +24,7 @@ The reason I chose this dataset is two-fold:
 
 When I did my data analysis I did not include all parameters. The reason I did this was to simplify my life, and to reduce any confounders to the random forest regressor I built, as well as to generate clear graphs.
 
-In this readme file, I will take you through my process of data cleaning, analysis/visualization, and model building. I have also attached my code for data cleaning, the cleaned csv file, my code for data visualization, and my code for the random forest regressor.
+In this readme file, I will take you through my process of data cleaning, analysis/visualization, and model building. I have also attached my code for data cleaning, the cleaned csv file, my code for data visualization (some graphs added later on- so not fully up to date), and my code for the random forest regressor.
 
 ---
 ## Data Cleaning
@@ -189,7 +189,7 @@ import numpy as np
 # First, I load the data
 df = pd.read_csv("cleaned-patient_wait_times.csv")
 
-# Next, I onverted the "Days" column to numeric so I didn't get any errors
+# Next, I converted the "Days" column to numeric so I didn't get any errors
 df['Result'] = pd.to_numeric(df['Result'], errors='coerce')
 
 # Then I encoded categorical variables using dummy variables
@@ -218,7 +218,7 @@ rmse = np.sqrt(mse)
 print("Root mean squared error:", rmse.round(2)
 ```
 
-### Model Error
+## Model Error (RMSE = ~40 Days)
 **Root mean squared error: 39.75**
 
 ### What does this mean?
