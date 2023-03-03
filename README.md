@@ -170,6 +170,7 @@ plt.ylabel("Result", fontname="Times New Roman", fontsize=20)
 ```
 
 ![Year-Wait-Time](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Yearly-WaitTime-Trends.png?raw=true)
+
 _Figure 3_. Yearly wait time trends for priority procedures in Canada from the year 2008 to 2021.
 
 ### Wait Times Based on Indicator (Procedure)
@@ -181,6 +182,7 @@ avg_wait_time2 = df.groupby('Indicator')['Result'].mean().round(1)
 
 print(avg_wait_time2)
 
+# MEAN WAIT TIME (DAYS) BASED OFF PROCEDURE TYPE
 Indicator
 Bladder Cancer Surgery                          24.6
 Breast Cancer Surgery                           17.8
@@ -198,7 +200,8 @@ Prostate Cancer Surgery                         40.9
 Radiation Therapy                                9.5
 Name: Result, dtype: float64
 ```
-
+![Wait-Time-Indicator](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Wait_Time_Indicator.png)
+_Figure 4_. Wait time (days) based off the type of procedure (called "indicator").
 
 ---
 ## Random Forest Regressor
@@ -245,7 +248,6 @@ mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
 print("Root mean squared error:", rmse.round(2)
 ```
-
 ## Model Error (RMSE = ~40 Days)
 **Root mean squared error: 39.75**
 
@@ -255,4 +257,12 @@ EXPLANATION HERE
 After playing around with the n_estimators that would give me the lowest Mean Squared Error, it appears that 91 n_estimators with a random state of 38 gives me the lowest Mean Squared Error with this random forest model.
 
 ---
-## Conclusion
+## Brief Superficial Summary
+
+- Wait times trended upwards year on year from 2008 to 2021
+- Wait times were longest for hip and knee replacements, and shortest for hip fractures
+- Wait times varied largely depending on the type of procedure
+- Nova Scotia had the longest wait times on average
+- Newfoundland and Labrador had the shortest wait times on average
+
+
