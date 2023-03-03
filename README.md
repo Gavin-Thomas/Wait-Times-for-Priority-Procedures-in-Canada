@@ -38,7 +38,7 @@ Everything I Cleaned:
 - Only rows I did not delete from the Metric column was the "50th percentile" (50th percentile wait time)
 - Changed all Provinces to their abbreviation (ex. AB instead of Alberta)
 - Deleted all rows containing "Proportion" under column  "Unit of Measurement"
-- Deleted all Data years past 2019 (to not include COVID lockdown)
+- Deleted all Data years past 2021 (not including 2022)
 - Deleted all Data years with letters (ie. 2019FY)
 - Changed All "Indicator Results" Column "Hours" to "Days" by dividing by 24.
 - Changed Column Title "Province/Territory" to Province
