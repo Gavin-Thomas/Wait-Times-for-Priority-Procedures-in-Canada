@@ -174,9 +174,14 @@ _Figure 3_. Yearly wait time trends for priority procedures in Canada from the y
 
 ### Wait Times Based on Indicator (Procedure)
 
-**MEAN WAIT TIMES BELOW**
 
-**Indicator**
+```
+# Take the wait time based off indicator (procedure) and result (days)
+avg_wait_time2 = df.groupby('Indicator')['Result'].mean().round(1)
+
+print(avg_wait_time2)
+
+Indicator
 Bladder Cancer Surgery                          24.6
 Breast Cancer Surgery                           17.8
 CABG                                             8.5
@@ -192,7 +197,7 @@ MRI Scan                                        53.6
 Prostate Cancer Surgery                         40.9
 Radiation Therapy                                9.5
 Name: Result, dtype: float64
-
+```
 
 
 ---
