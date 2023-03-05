@@ -1,5 +1,4 @@
 
-![Canadian Flag](https://www.freewebheaders.com/wp-content/gallery/world-flags/canada-grunge-flag-header.jpg)
 # <p align="center">Canadian Healthcare Analysis: Wait Times for Priority Procedures</p>
 ### <p align="center">By Gavin Thomas</p>
 _____
