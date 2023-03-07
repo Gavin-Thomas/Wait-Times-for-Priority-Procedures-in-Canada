@@ -286,9 +286,9 @@ best_model = compare_models()
 evaluate_model(best_model)
 ```
 
-#### Here is the model.
+#### Below are various figures depictig the model accuracy.
 
-
+![Image1](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/LGBM_validation.png?raw=true)
 
 
 ---
