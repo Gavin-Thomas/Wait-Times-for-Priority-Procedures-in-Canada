@@ -290,6 +290,11 @@ evaluate_model(best_model)
 
 ![Image1](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/LGBM_validation.png?raw=true)
 
+FIGURE.....
+
+![Image2](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/LGBM_tsne.png?raw=true)
+
+
 
 ---
 ## Brief Superficial Summary
