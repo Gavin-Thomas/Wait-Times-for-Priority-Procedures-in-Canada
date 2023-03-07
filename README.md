@@ -294,8 +294,10 @@ FIGURE.....
 
 ![Image2](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/LGBM_tsne.png?raw=true)
 
+FIGURE ......
+![Image3](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/LGBM_residuals.png?raw=true)
 
-
+FIGURE ......
 ---
 ## Brief Superficial Summary
 
