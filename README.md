@@ -247,6 +247,49 @@ print("Root mean squared error:", rmse.round(2)
 **Root mean squared error: 39.75**
 
 After playing around with the n_estimators that would give me the lowest Mean Squared Error, it appears that 91 n_estimators with a random state of 38 gives me the lowest Mean Squared Error with this random forest model.
+__
+## PyCaret LGBM Prediction
+
+After I built the random forest model, I discovered PyCaret. I have now built a Light Gradient Boosted Model using this Python library.
+```
+PYCARET CITATION
+@Manual{PyCaret,
+  author  = {Moez Ali},
+  title   = {PyCaret: An open source, low-code machine learning library in Python},
+  year    = {2020},
+  month   = {April},
+  note    = {PyCaret version 1.0.0},
+  url     = {https://www.pycaret.org}
+}
+```
+
+My code:
+```
+import pandas as pd
+from pycaret.regression import *
+
+df = pd.read_csv('cleaned-patient_wait_times.csv')
+df.head()
+
+df.dtypes
+
+cat_features = ['Province','Indicator','Year','Metric']
+
+experiment = setup(df, target = 'Result', categorical_features = cat_features)
+
+best_model = compare_models()
+# Seems like the LGBM is the best model for me for this data
+
+#Evaluate the model with different graphs showing its accuracy
+#Fantastic part of PyCaret is the built in graphs
+
+evaluate_model(best_model)
+```
+
+#### Here is the model.
+
+
+
 
 ---
 ## Brief Superficial Summary
