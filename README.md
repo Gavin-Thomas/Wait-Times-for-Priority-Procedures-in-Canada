@@ -155,22 +155,23 @@ Note:
 
 ```
 import matplotlib.pyplot as plt
-
+import seaborn as sb
+# Set figure size
 sb.set(rc={'figure.figsize':(40, 16)})
 
+# Set Barplot
 barplot = sb.barplot(data=df, x="Year", y="Result")
-barplot.set_xlabel('Province', fontsize=50, fontfamily = 'Times New Roman')
-barplot.set_ylabel('Result (Days)', fontsize=50, fontfamily = 'Times New Roman')
+# Set X label 
+barplot.set_xlabel('Year', fontsize=50, fontfamily = 'Times New Roman')
+# Set Y Label
+barplot.set_ylabel('Wait Time (Days)', fontsize=50, fontfamily = 'Times New Roman')
+# Set label sizes
 barplot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
-
-plot.fig.subplots_adjust(left=-0.5)
-plt.xlabel("Year", fontname="Times New Roman", fontsize=20)
-plt.ylabel("Result", fontname="Times New Roman", fontsize=20)
 ```
 
 ![Year-Wait-Time](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Wait_Time_Year.png?raw=true)
 
-_Figure 3_. Yearly wait time trends for priority procedures in Canada from the year 2008 to 2021.
+_Figure 3_. Barplot of yearly wait time trends for priority procedures in Canada from the year 2008 to 2021.
 
 ### Wait Times Based on Indicator (Procedure)
 
