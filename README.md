@@ -168,7 +168,7 @@ plt.xlabel("Year", fontname="Times New Roman", fontsize=20)
 plt.ylabel("Result", fontname="Times New Roman", fontsize=20)
 ```
 
-![Year-Wait-Time](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Yearly-WaitTime-Trends.png?raw=true)
+![Year-Wait-Time](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Wait_Time_Year.png?raw=true)
 
 _Figure 3_. Yearly wait time trends for priority procedures in Canada from the year 2008 to 2021.
 
