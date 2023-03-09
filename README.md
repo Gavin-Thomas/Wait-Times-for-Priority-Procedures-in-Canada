@@ -107,7 +107,7 @@ Once done all this, I saved the file to the final copy of the cleaned CSV titled
 ```
 df = pd.read_csv("patient_wait_times.csv")
 
-avg_wait_time = df.groupby('Province')['Result'].mean()
+avg_wait_time = df.groupby('Province')['Result'].mean().round(1)
 
 # Print wait time based on Province
 print(avg_wait_time)
@@ -115,25 +115,30 @@ print(avg_wait_time)
 # RESULT (WAIT TIME IN DAYS)
 
 Province
-AB      74.457611
-BC      83.642558
-MB     105.602222
-NB      79.919872
-NL      65.843298
-NS     110.810046
-ON      70.604351
-PEI     69.459600
-SK      81.135310
+AB      74.5
+BC      83.6
+MB     105.6
+NB      79.9
+NL      65.8
+NS     110.8
+ON      70.6
+PEI     69.5
+SK      81.1
 ```
 It appears that on average, NL has the shortest wait times and Nova Scotia has the longest wait times. Let's visualize the data to get a better understanding.
 
 For this next part, I use Seaborn.
 ```
+# Quick figure size set
 sb.set(rc={'figure.figsize':(25,10)})
 
+# Set violin plot
 violin_plot = sb.violinplot(y="Result",x="Province",data=df)
+# Set x axis label (note: indicator is the procedure needed)
 violin_plot.set_xlabel('Indicator', fontsize=40, fontfamily = 'Times New Roman')
+# Set y axis label (note: Result (Days) is the wait time)
 violin_plot.set_ylabel('Result (Days)', fontsize=40, fontfamily = 'Times New Roman')
+# Set the label size
 violin_plot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
 ```
 ![ViolinPlot-Province](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/ViolinPlot-Province.png?raw=true)
@@ -141,6 +146,8 @@ _Figure 1_. Violin plot of wait time in days for each Canadian province (excludi
 
 Next up is the barplot...
 ```
+# Format for setting the labels is he same as the Violin plot.
+
 barplot = sb.barplot(data=df, x="Province", y="Result")
 barplot.set_xlabel('Province', fontsize=50, fontfamily = 'Times New Roman')
 barplot.set_ylabel('Result (Days)', fontsize=50, fontfamily = 'Times New Roman')
