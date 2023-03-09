@@ -292,22 +292,12 @@ best_model = compare_models()
 evaluate_model(best_model)
 ```
 
-#### Below are various figures depictig the model accuracy.
-
 ![Image1](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Residuals_plot.png?raw=true)
 
 _Figure 5_. Residuals plot of the Light-Gradient-Boosted Model. Observe how the accuracy of the model diminishes as the number of days increases.
 
 ![Image2](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/LGBM_residuals.png?raw=true)
 
-FIGURE ......
+![Image3](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Feature_importance.png?raw=true)
+_Figure 6_. Feature Importance plot for the top 10 features. 
 ---
-## Brief Superficial Summary
-
-- Wait times trended upwards year on year from 2008 to 2021
-- Wait times were longest for hip and knee replacements, and shortest for hip fractures
-- Wait times varied largely depending on the type of procedure
-- Nova Scotia had the longest wait times on average
-- Newfoundland and Labrador had the shortest wait times on average
-
-
