@@ -272,17 +272,23 @@ PYCARET CITATION
 My code:
 ```
 import pandas as pd
+# Import PyCaret regression tool
 from pycaret.regression import *
 
+# Read csv
 df = pd.read_csv('cleaned-patient_wait_times.csv')
 df.head()
 
+# Check data types quickly
 df.dtypes
 
+# set categorical features
 cat_features = ['Province','Indicator','Year','Metric']
 
+#setup an experiment, target variable is result (wait time in days)
 experiment = setup(df, target = 'Result', categorical_features = cat_features)
 
+#Compare models
 best_model = compare_models()
 # Seems like the LGBM is the best model for me for this data
 
@@ -291,7 +297,6 @@ best_model = compare_models()
 
 evaluate_model(best_model)
 ```
-
 ![Image1](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Residuals_plot.png?raw=true)
 
 _Figure 5_. Residuals plot of the Light-Gradient-Boosted Model. Observe how the accuracy of the model diminishes as the number of days increases.
