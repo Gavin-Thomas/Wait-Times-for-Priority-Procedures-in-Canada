@@ -300,4 +300,6 @@ _Figure 5_. Residuals plot of the Light-Gradient-Boosted Model. Observe how the 
 
 ![Image3](https://github.com/Gavin-Thomas/Wait-Times-for-Priority-Procedures-in-Canada/blob/main/Images/Feature_importance.png?raw=true)
 _Figure 6_. Feature Importance plot for the top 10 features. 
+
+The End. 
 ---
