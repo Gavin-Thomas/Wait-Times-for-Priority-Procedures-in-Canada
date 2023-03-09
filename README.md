@@ -157,7 +157,11 @@ Note:
 import matplotlib.pyplot as plt
 
 sb.set(rc={'figure.figsize':(40, 16)})
-plot = sb.catplot(x="Year", y="Result", data=df, jitter=False)
+
+barplot = sb.barplot(data=df, x="Year", y="Result")
+barplot.set_xlabel('Province', fontsize=50, fontfamily = 'Times New Roman')
+barplot.set_ylabel('Result (Days)', fontsize=50, fontfamily = 'Times New Roman')
+barplot.tick_params(axis='both', which='major', labelsize=25, width=2, length=6, pad=8)
 
 plot.fig.subplots_adjust(left=-0.5)
 plt.xlabel("Year", fontname="Times New Roman", fontsize=20)
